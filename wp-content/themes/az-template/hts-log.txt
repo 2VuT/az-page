@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Thu, 02 Feb 2023 01:27:22 at https://www.dssolution.vn/vi/
+(winhttrack https://www.dssolution.vn/vi/ -O "/Users/vntheflash/websites/az-template" -P none:8080 -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:27:27	Error: 	"Not Found" (404) at link https://www.dssolution.vn/vi/comments/feed/ (from https://www.dssolution.vn/vi/)
+01:27:38	Error: 	"Not Found" (404) at link https://www.dssolution.vn/vi/atlassian-vi/ (from https://www.dssolution.vn/vi/ve-ds-solution-vietnam/)
+01:27:46	Warning: 	Moved Permanently for https://www.dssolution.vn/vi/category/post-vi/page/1/
+01:27:46	Warning: 	File has moved from https://www.dssolution.vn/vi/category/post-vi/page/1/ to https://www.dssolution.vn/vi/category/post-vi/
+01:27:47	Warning: 	Moved Permanently for https://www.dssolution.vn/vi/category/tuyen-dung-vi/page/1/
+01:27:47	Warning: 	File has moved from https://www.dssolution.vn/vi/category/tuyen-dung-vi/page/1/ to https://www.dssolution.vn/vi/category/tuyen-dung-vi/
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 69 links scanned, 64 files written (3937337 bytes overall) [1012483 bytes received at 40499 bytes/sec], 3937464 bytes transferred using HTTP compression in 65 files, ratio 21%, 17.2 requests per connection
+(2 errors, 4 warnings, 0 messages)

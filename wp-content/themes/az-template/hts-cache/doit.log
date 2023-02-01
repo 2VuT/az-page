@@ -1,0 +1,8 @@
+https://www.dssolution.vn/vi/ -O "/Users/vntheflash/websites/az-template" -P none:8080 -%v
+File generated automatically on Thu, 02 Feb 2023 01:27:22, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
