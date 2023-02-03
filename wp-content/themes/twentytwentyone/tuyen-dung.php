@@ -13,15 +13,15 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Thông tin tuyển dụng | AZPro Vietnam</title>
-    <meta name="description" content="Công ty Cổ phần AZPro Vietnam tuyển dụng các chuyên gia phát triển phần mềm, QA, với mức lương và đãi ngộ vô cùng hấp dẫn..." />
+    <title>Thông tin tuyển dụng | AZ Soft Vietnam</title>
+    <meta name="description" content="Công ty Cổ phần AZ Soft Vietnam tuyển dụng các chuyên gia phát triển phần mềm, QA, với mức lương và đãi ngộ vô cùng hấp dẫn..." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Thông tin tuyển dụng | AZPro Vietnam" />
-    <meta property="og:description" content="Công ty Cổ phần AZPro Vietnam tuyển dụng các chuyên gia phát triển phần mềm, QA, với mức lương và đãi ngộ vô cùng hấp dẫn..." />
+    <meta property="og:title" content="Thông tin tuyển dụng | AZ Soft Vietnam" />
+    <meta property="og:description" content="Công ty Cổ phần AZ Soft Vietnam tuyển dụng các chuyên gia phát triển phần mềm, QA, với mức lương và đãi ngộ vô cùng hấp dẫn..." />
     <meta property="og:url" content="index.html" />
-    <meta property="og:site_name" content="AZPro Vietnam" />
+    <meta property="og:site_name" content="AZ Soft Vietnam" />
     <meta property="article:publisher" content="https://www.facebook.com/itdevsamurai/" />
     <meta property="article:modified_time" content="2022-12-09T10:09:24+00:00" />
     <meta property="og:image" content="https://www.dssolution.vn/wp-content/uploads/2022/01/dss-blog.png" />
@@ -29,14 +29,14 @@
     <meta property="og:image:height" content="441" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@it_devsamurai" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZPro Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/tuyen-dung/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2022/01/dss-blog.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2022/01/dss-blog.png","width":700,"height":441},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/tuyen-dung/#webpage","url":"https://www.dssolution.vn/vi/tuyen-dung/","name":"Th\u00f4ng tin tuy\u1ec3n d\u1ee5ng | AZPro Vietnam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/tuyen-dung/#primaryimage"},"datePublished":"2022-02-17T08:09:05+00:00","dateModified":"2022-12-09T10:09:24+00:00","description":"C\u00f4ng ty C\u1ed5 ph\u1ea7n AZPro Vietnam tuy\u1ec3n d\u1ee5ng c\u00e1c chuy\u00ean gia ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m, QA, v\u1edbi m\u1ee9c l\u01b0\u01a1ng v\u00e0 \u0111\u00e3i ng\u1ed9 v\u00f4 c\u00f9ng h\u1ea5p d\u1eabn...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/tuyen-dung/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/tuyen-dung/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/tuyen-dung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"8.Tuy\u1ec3n d\u1ee5ng"}]}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/tuyen-dung/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2022/01/dss-blog.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2022/01/dss-blog.png","width":700,"height":441},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/tuyen-dung/#webpage","url":"https://www.dssolution.vn/vi/tuyen-dung/","name":"Th\u00f4ng tin tuy\u1ec3n d\u1ee5ng | AZ Soft Vietnam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/tuyen-dung/#primaryimage"},"datePublished":"2022-02-17T08:09:05+00:00","dateModified":"2022-12-09T10:09:24+00:00","description":"C\u00f4ng ty C\u1ed5 ph\u1ea7n AZ Soft Vietnam tuy\u1ec3n d\u1ee5ng c\u00e1c chuy\u00ean gia ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m, QA, v\u1edbi m\u1ee9c l\u01b0\u01a1ng v\u00e0 \u0111\u00e3i ng\u1ed9 v\u00f4 c\u00f9ng h\u1ea5p d\u1eabn...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/tuyen-dung/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/tuyen-dung/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/tuyen-dung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"8.Tuy\u1ec3n d\u1ee5ng"}]}]}</script>
     <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZPro Vietnam &raquo;" href="../feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZPro Vietnam &raquo;" href="../comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZ Soft Vietnam &raquo;" href="../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZ Soft Vietnam &raquo;" href="../comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script
         src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
@@ -373,7 +373,7 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZPro Vietnam" /></a>
+                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
@@ -443,7 +443,7 @@
                                                                                                     <a href="../senior-tech-lead-2/index.html">Senior/Tech Lead</a>
                                                                                                 </h3>
                                                                                                 <div class="post-grid-excerpt">
-                                                                                                    <p>AZPro là công ty outsourcing có trụ sở tại Tokyo, Nhật Bản và chi nhánh tại Việt Nam (AZPro Vietnam). Chúng tôi xây dựng văn hóa Agile ngay từ môi trường làm việc&hellip;</p>
+                                                                                                    <p>AZ Soft là công ty outsourcing có trụ sở tại Tokyo, Nhật Bản và chi nhánh tại Việt Nam (AZ Soft Vietnam). Chúng tôi xây dựng văn hóa Agile ngay từ môi trường làm việc&hellip;</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div><!-- .blog-inner -->
@@ -458,7 +458,7 @@
                                                                                                     <a href="../fresher-junior-developer-2/index.html">Fresher/Junior Developer</a>
                                                                                                 </h3>
                                                                                                 <div class="post-grid-excerpt">
-                                                                                                    <p>AZPro Việt Nam là công ty CNTT outsourcing/offshore, chi nhánh của công ty AZPro có trụ sở tại Tokyo, Nhật Bản. Công ty đang có nhu cầu tuyển dụng những bạn sinh viên&hellip;</p>
+                                                                                                    <p>AZ Soft Việt Nam là công ty CNTT outsourcing/offshore, chi nhánh của công ty AZ Soft có trụ sở tại Tokyo, Nhật Bản. Công ty đang có nhu cầu tuyển dụng những bạn sinh viên&hellip;</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div><!-- .blog-inner -->
@@ -473,7 +473,7 @@
                                                                                                     <a href="../ky-su-cau-noi-brse/index.html">Kỹ sư cầu nối BrSE tại Nhật</a>
                                                                                                 </h3>
                                                                                                 <div class="post-grid-excerpt">
-                                                                                                    <p> AZPro tìm kiếm BrSE tại Nhật (Tokyo) với mức lương và chế độ đãi ngộ cực kỳ hấp dẫn! Go Agile cùng AZPro Việt Nam! Bạn có đang tìm kiếm môi trường làm&hellip;</p>
+                                                                                                    <p> AZ Soft tìm kiếm BrSE tại Nhật (Tokyo) với mức lương và chế độ đãi ngộ cực kỳ hấp dẫn! Go Agile cùng AZ Soft Việt Nam! Bạn có đang tìm kiếm môi trường làm&hellip;</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div><!-- .blog-inner -->
@@ -488,7 +488,7 @@
                                                                                                     <a href="../tuyen-dung-middle-frontend-developer/index.html">Frontend Developer</a>
                                                                                                 </h3>
                                                                                                 <div class="post-grid-excerpt">
-                                                                                                    <p>&nbsp;AZPro Việt Nam tìm kiếm Front end Developer với mức lương và chế độ đãi ngộ cực kỳ hấp dẫn! Go Agile cùng AZPro Việt Nam! Bạn có đang tìm kiếm môi trường&hellip;</p>
+                                                                                                    <p>&nbsp;AZ Soft Việt Nam tìm kiếm Front end Developer với mức lương và chế độ đãi ngộ cực kỳ hấp dẫn! Go Agile cùng AZ Soft Việt Nam! Bạn có đang tìm kiếm môi trường&hellip;</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div><!-- .blog-inner -->
@@ -602,7 +602,7 @@
                                                             <div class="elementor-element elementor-element-3d002308 elementor-widget elementor-widget-text-editor" data-id="3d002308" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>AZPro Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZPro Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
+                                                                        <p>AZ Soft Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZ Soft Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-8430210 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="8430210" data-element_type="widget" data-widget_type="social-icons.default">
@@ -705,7 +705,7 @@
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
                                                                             <a href="../ve-ds-solution-vietnam/index.html" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Về AZPro Vietnam</span>
+                                                                                <span class="elementor-icon-list-text">・Về AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
@@ -750,7 +750,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-2d7e95e9 elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="2d7e95e9" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZPRO"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
+                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZ Soft"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -802,7 +802,7 @@
                                                             <div class="elementor-element elementor-element-3e9d6f9 elementor-widget elementor-widget-text-editor" data-id="3e9d6f9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZPro VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

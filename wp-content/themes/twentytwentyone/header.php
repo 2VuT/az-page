@@ -26,30 +26,30 @@
     <link rel="alternate" href="https://www.dssolution.vn/" hreflang="x-default" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>AZPro Vietnam | Giải pháp IT | Đối tác Atlassian tại Việt Nam</title>
-    <meta name="description" content="AZPro Vietnam là đối tác của Google Cloud, Atlassian. Cung cấp giải pháp outsourcing và công cụ kỹ thuật số Atlassian hiệu quả cho doanh nghiệp..." />
+    <title>AZ Soft Vietnam | Giải pháp IT | Đối tác Atlassian tại Việt Nam</title>
+    <meta name="description" content="AZ Soft Vietnam là đối tác của Google Cloud, Atlassian. Cung cấp giải pháp outsourcing và công cụ kỹ thuật số Atlassian hiệu quả cho doanh nghiệp..." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:locale:alternate" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="AZPro Vietnam | Giải pháp IT | Đối tác Atlassian tại Việt Nam" />
-    <meta property="og:description" content="AZPro Vietnam là đối tác của Google Cloud, Atlassian. Cung cấp giải pháp outsourcing và công cụ kỹ thuật số Atlassian hiệu quả cho doanh nghiệp..." />
+    <meta property="og:title" content="AZ Soft Vietnam | Giải pháp IT | Đối tác Atlassian tại Việt Nam" />
+    <meta property="og:description" content="AZ Soft Vietnam là đối tác của Google Cloud, Atlassian. Cung cấp giải pháp outsourcing và công cụ kỹ thuật số Atlassian hiệu quả cho doanh nghiệp..." />
     <meta property="og:url" content="index.html" />
-    <meta property="og:site_name" content="AZPro Vietnam" />
+    <meta property="og:site_name" content="AZ Soft Vietnam" />
     <meta property="article:publisher" content="https://www.facebook.com/itdevsamurai/" />
     <meta property="article:modified_time" content="2022-12-09T10:14:32+00:00" />
     <meta property="og:image" content="https://www.dssolution.vn/wp-content/uploads/2021/12/GCP_CloudCovered.max-1000x1000-1.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@it_devsamurai" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZPro Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2021/12/GCP_CloudCovered.max-1000x1000-1.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2021/12/GCP_CloudCovered.max-1000x1000-1.png","width":1000,"height":417},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/#webpage","url":"https://www.dssolution.vn/vi/","name":"AZPro Vietnam | Gi\u1ea3i ph\u00e1p IT | \u0110\u1ed1i t\u00e1c Atlassian t\u1ea1i Vi\u1ec7t Nam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"about":{"@id":"https://www.dssolution.vn/vi/#organization"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/#primaryimage"},"datePublished":"2022-01-04T09:31:09+00:00","dateModified":"2022-12-09T10:14:32+00:00","description":"AZPro Vietnam l\u00e0 \u0111\u1ed1i t\u00e1c c\u1ee7a Google Cloud, Atlassian. Cung c\u1ea5p gi\u1ea3i ph\u00e1p outsourcing v\u00e0 c\u00f4ng c\u1ee5 k\u1ef9 thu\u1eadt s\u1ed1 Atlassian hi\u1ec7u qu\u1ea3 cho doanh nghi\u1ec7p...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2021/12/GCP_CloudCovered.max-1000x1000-1.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2021/12/GCP_CloudCovered.max-1000x1000-1.png","width":1000,"height":417},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/#webpage","url":"https://www.dssolution.vn/vi/","name":"AZ Soft Vietnam | Gi\u1ea3i ph\u00e1p IT | \u0110\u1ed1i t\u00e1c Atlassian t\u1ea1i Vi\u1ec7t Nam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"about":{"@id":"https://www.dssolution.vn/vi/#organization"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/#primaryimage"},"datePublished":"2022-01-04T09:31:09+00:00","dateModified":"2022-12-09T10:14:32+00:00","description":"AZ Soft Vietnam l\u00e0 \u0111\u1ed1i t\u00e1c c\u1ee7a Google Cloud, Atlassian. Cung c\u1ea5p gi\u1ea3i ph\u00e1p outsourcing v\u00e0 c\u00f4ng c\u1ee5 k\u1ef9 thu\u1eadt s\u1ed1 Atlassian hi\u1ec7u qu\u1ea3 cho doanh nghi\u1ec7p...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
     <meta name="google-site-verification" content="5a418_Y0r5PoAx9lTILpFrTvUnuYv5ZoBeUMkgMVCfQ" />
     <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZPro Vietnam &raquo;" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZPro Vietnam &raquo;" href="comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZ Soft Vietnam &raquo;" href="feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZ Soft Vietnam &raquo;" href="comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script
             src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
@@ -351,7 +351,7 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="index.html" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZPro Vietnam" /></a>
+                        <a href="index.html" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
@@ -492,7 +492,7 @@
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-13e898d elementor-widget elementor-widget-heading" data-id="13e898d" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <p class="elementor-heading-title elementor-size-default">AZPro Vietnam cung cấp giải pháp Cloud tổng hợp giúp doanh nghiệp tối ưu chi phí vận hành và phát triển phần mềm từ tư vấn dịch vụ Cloud (AWS, GCP, IBM), hỗ trợ chuyển đổi cloud, xây dựng cơ sở hạ tầng điện toán đám mây, áp dụng Cloud Native, Cloud migration...</p>		</div>
+                                                                                                    <p class="elementor-heading-title elementor-size-default">AZ Soft Vietnam cung cấp giải pháp Cloud tổng hợp giúp doanh nghiệp tối ưu chi phí vận hành và phát triển phần mềm từ tư vấn dịch vụ Cloud (AWS, GCP, IBM), hỗ trợ chuyển đổi cloud, xây dựng cơ sở hạ tầng điện toán đám mây, áp dụng Cloud Native, Cloud migration...</p>		</div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-57be674 elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="57be674" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
@@ -725,7 +725,7 @@
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-972e295 elementor-widget elementor-widget-heading" data-id="972e295" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <p class="elementor-heading-title elementor-size-medium">AZPro Vietnam đem lại giải pháp nhanh hơn, đáng tin cậy, an toàn và hiệu quả về chi phí để phát triển và tích hợp các ứng dụng cần thiết giúp doanh nghiệp đạt được các mục tiêu kinh doanh, tận dụng công nghệ mới để tăng sức cạnh tranh cho doanh nghiệp. Chúng tôi xây dựng, triển khai và hỗ trợ vận hành các ứng dụng phù hợp với yêu cầu riêng của doanh nghiệp trong từng lĩnh vực. </p>		</div>
+                                                                                                    <p class="elementor-heading-title elementor-size-medium">AZ Soft Vietnam đem lại giải pháp nhanh hơn, đáng tin cậy, an toàn và hiệu quả về chi phí để phát triển và tích hợp các ứng dụng cần thiết giúp doanh nghiệp đạt được các mục tiêu kinh doanh, tận dụng công nghệ mới để tăng sức cạnh tranh cho doanh nghiệp. Chúng tôi xây dựng, triển khai và hỗ trợ vận hành các ứng dụng phù hợp với yêu cầu riêng của doanh nghiệp trong từng lĩnh vực. </p>		</div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-99ee456 elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="99ee456" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
@@ -903,7 +903,7 @@
                                                                                                     <a href="thong-bao-lich-nghi-tet-nguyen-dan-2023/index.html">Thông báo Lịch nghỉ Tết Nguyên đán 2023</a>
                                                                                                 </h3>
                                                                                                 <div class="post-grid-excerpt">
-                                                                                                    <p>■ Công ty Cổ phần AZPro Vietnam xin gửi lời tri ấn sâu sắc đến Quý Khách hàng, Quý Đối tác đã tin tưởng&hellip;</p>
+                                                                                                    <p>■ Công ty Cổ phần AZ Soft Vietnam xin gửi lời tri ấn sâu sắc đến Quý Khách hàng, Quý Đối tác đã tin tưởng&hellip;</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div><!-- .blog-inner -->
@@ -916,10 +916,10 @@
                                                                                             </div>
                                                                                             <div class="post-grid-text-wrap">
                                                                                                 <h3 class="title">
-                                                                                                    <a href="le-ky-niem-mot-nam-thanh-lap-cong-ty-co-phan-ds-solution-vietnam/index.html">Lễ kỷ niệm một năm thành lập Công ty Cổ phần AZPro Vietnam</a>
+                                                                                                    <a href="le-ky-niem-mot-nam-thanh-lap-cong-ty-co-phan-ds-solution-vietnam/index.html">Lễ kỷ niệm một năm thành lập Công ty Cổ phần AZ Soft Vietnam</a>
                                                                                                 </h3>
                                                                                                 <div class="post-grid-excerpt">
-                                                                                                    <p>Ngày 26/12/2022 vừa qua, tại The Terra An Hưng, Công ty Cổ phần AZPro Vietnam đã tổ chức thành công Lễ kỷ niệm một&hellip;</p>
+                                                                                                    <p>Ngày 26/12/2022 vừa qua, tại The Terra An Hưng, Công ty Cổ phần AZ Soft Vietnam đã tổ chức thành công Lễ kỷ niệm một&hellip;</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div><!-- .blog-inner -->
@@ -1080,7 +1080,7 @@
                                                                                                                 <i aria-hidden="true" class="fas fa-building"></i>
                                                                                                             </span>
                                                                                                             <span class="elementor-icon-list-text">
-                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZPro Vietnam JSC.</span>
+                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft Vietnam JSC.</span>
                                                                                                             </span>
                                                                                                         </li>
 

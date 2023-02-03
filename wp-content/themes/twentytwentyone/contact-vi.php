@@ -15,28 +15,28 @@
     <link rel="alternate" href="https://www.dssolution.vn/en/contact-dss-vietnam/" hreflang="en" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Liên hệ | AZPro Vietnam</title>
+    <title>Liên hệ | AZ Soft Vietnam</title>
     <meta name="description" content="DSS Việt Nam là nhà cung cấp giải pháp DX hàng đầu Việt Nam, áp dụng nhuần nhuyễn phương thức phát triển agile &amp; scrum để tạo ra giải pháp scale hiệu quả..." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:locale:alternate" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Liên hệ | AZPro Vietnam" />
+    <meta property="og:title" content="Liên hệ | AZ Soft Vietnam" />
     <meta property="og:description" content="DSS Việt Nam là nhà cung cấp giải pháp DX hàng đầu Việt Nam, áp dụng nhuần nhuyễn phương thức phát triển agile &amp; scrum để tạo ra giải pháp scale hiệu quả..." />
     <meta property="og:url" content="index.html" />
-    <meta property="og:site_name" content="AZPro Vietnam" />
+    <meta property="og:site_name" content="AZ Soft Vietnam" />
     <meta property="article:publisher" content="https://www.facebook.com/itdevsamurai/" />
     <meta property="article:modified_time" content="2022-12-09T10:09:30+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@it_devsamurai" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZPro Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/contact-vi/#webpage","url":"https://www.dssolution.vn/vi/contact-vi/","name":"Li\u00ean h\u1ec7 | AZPro Vietnam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"datePublished":"2022-01-04T09:39:14+00:00","dateModified":"2022-12-09T10:09:30+00:00","description":"DSS Vi\u1ec7t Nam l\u00e0 nh\u00e0 cung c\u1ea5p gi\u1ea3i ph\u00e1p DX h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam, \u00e1p d\u1ee5ng nhu\u1ea7n nhuy\u1ec5n ph\u01b0\u01a1ng th\u1ee9c ph\u00e1t tri\u1ec3n agile & scrum \u0111\u1ec3 t\u1ea1o ra gi\u1ea3i ph\u00e1p scale hi\u1ec7u qu\u1ea3...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/contact-vi/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/contact-vi/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/contact-vi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"7.Contact VI"}]}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/contact-vi/#webpage","url":"https://www.dssolution.vn/vi/contact-vi/","name":"Li\u00ean h\u1ec7 | AZ Soft Vietnam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"datePublished":"2022-01-04T09:39:14+00:00","dateModified":"2022-12-09T10:09:30+00:00","description":"DSS Vi\u1ec7t Nam l\u00e0 nh\u00e0 cung c\u1ea5p gi\u1ea3i ph\u00e1p DX h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam, \u00e1p d\u1ee5ng nhu\u1ea7n nhuy\u1ec5n ph\u01b0\u01a1ng th\u1ee9c ph\u00e1t tri\u1ec3n agile & scrum \u0111\u1ec3 t\u1ea1o ra gi\u1ea3i ph\u00e1p scale hi\u1ec7u qu\u1ea3...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/contact-vi/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/contact-vi/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/contact-vi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"7.Contact VI"}]}]}</script>
     <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZPro Vietnam &raquo;" href="../feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZPro Vietnam &raquo;" href="../comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZ Soft Vietnam &raquo;" href="../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZ Soft Vietnam &raquo;" href="../comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script
         src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
@@ -368,7 +368,7 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZPro Vietnam" /></a>
+                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
@@ -433,7 +433,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-5a4ae88 elementor-widget elementor-widget-heading" data-id="5a4ae88" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-large">AZPro Vietnam,. JSC</h2>		</div>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-large">AZ Soft Vietnam,. JSC</h2>		</div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-d0489cc elementor-align-left contact-style elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d0489cc" data-element_type="widget" data-widget_type="icon-list.default">
                                                                                                 <div class="elementor-widget-container">
@@ -441,7 +441,7 @@
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-building"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZPro Vietnam., JSC</span></span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft Vietnam., JSC</span></span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
@@ -555,7 +555,7 @@
                                                             <div class="elementor-element elementor-element-3d002308 elementor-widget elementor-widget-text-editor" data-id="3d002308" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>AZPro Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZPro Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
+                                                                        <p>AZ Soft Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZ Soft Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-8430210 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="8430210" data-element_type="widget" data-widget_type="social-icons.default">
@@ -658,7 +658,7 @@
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
                                                                             <a href="../ve-ds-solution-vietnam/index.html" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Về AZPro Vietnam</span>
+                                                                                <span class="elementor-icon-list-text">・Về AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
@@ -703,7 +703,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-2d7e95e9 elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="2d7e95e9" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZPRO"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
+                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZ Soft"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -755,7 +755,7 @@
                                                             <div class="elementor-element elementor-element-3e9d6f9 elementor-widget elementor-widget-text-editor" data-id="3e9d6f9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZPro VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

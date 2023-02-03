@@ -31,7 +31,7 @@
                                                     <div class="elementor-element elementor-element-3d002308 elementor-widget elementor-widget-text-editor" data-id="3d002308" data-element_type="widget" data-widget_type="text-editor.default">
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                <p>AZPro Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZPro Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
+                                                                <p>AZ Soft Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZ Soft Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
                                                         </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-8430210 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="8430210" data-element_type="widget" data-widget_type="social-icons.default">
@@ -134,7 +134,7 @@
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
                                                                     <a href="ve-ds-solution-vietnam/index.html" target="_blank">
-                                                                        <span class="elementor-icon-list-text">・Về AZPro Vietnam</span>
+                                                                        <span class="elementor-icon-list-text">・Về AZ Soft Vietnam</span>
                                                                     </a>
                                                                 </li>
                                                             </ul>
@@ -180,7 +180,7 @@
                                                     <div class="elementor-element elementor-element-2d7e95e9 elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="2d7e95e9" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                         <div class="elementor-widget-container">
                                                             <h5>Follow us</h5>
-                                                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCTAZPRO&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                                                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCTAZ Soft&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -233,7 +233,7 @@
                                                     <div class="elementor-element elementor-element-3e9d6f9 elementor-widget elementor-widget-text-editor" data-id="3e9d6f9" data-element_type="widget" data-widget_type="text-editor.default">
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                <p>©2022 AZPro VIETNAM., JSC All Rights Reserved.｜<a href="ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                         </div>
                                                     </div>
                                                 </div>

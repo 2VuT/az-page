@@ -13,15 +13,15 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Điều chỉnh, mở rộng tính năng Atlassian | AZPro Vietnam| Đối tác Atlassian</title>
-    <meta name="description" content="AZPro Việt Nam hỗ trợ điều chỉnh, phát triển thêm tính năng của Jira, Confluence, Bitbucket,... phù hợp với nhu cầu và đặc trưng của nhóm, doanh nghiệp." />
+    <title>Điều chỉnh, mở rộng tính năng Atlassian | AZ Soft Vietnam| Đối tác Atlassian</title>
+    <meta name="description" content="AZ Soft Việt Nam hỗ trợ điều chỉnh, phát triển thêm tính năng của Jira, Confluence, Bitbucket,... phù hợp với nhu cầu và đặc trưng của nhóm, doanh nghiệp." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Điều chỉnh, mở rộng tính năng Atlassian | AZPro Vietnam| Đối tác Atlassian" />
-    <meta property="og:description" content="AZPro Việt Nam hỗ trợ điều chỉnh, phát triển thêm tính năng của Jira, Confluence, Bitbucket,... phù hợp với nhu cầu và đặc trưng của nhóm, doanh nghiệp." />
+    <meta property="og:title" content="Điều chỉnh, mở rộng tính năng Atlassian | AZ Soft Vietnam| Đối tác Atlassian" />
+    <meta property="og:description" content="AZ Soft Việt Nam hỗ trợ điều chỉnh, phát triển thêm tính năng của Jira, Confluence, Bitbucket,... phù hợp với nhu cầu và đặc trưng của nhóm, doanh nghiệp." />
     <meta property="og:url" content="index.html" />
-    <meta property="og:site_name" content="AZPro Vietnam" />
+    <meta property="og:site_name" content="AZ Soft Vietnam" />
     <meta property="article:publisher" content="https://www.facebook.com/itdevsamurai/" />
     <meta property="article:modified_time" content="2022-12-09T09:58:22+00:00" />
     <meta property="og:image" content="https://www.dssolution.vn/wp-content/uploads/2019/06/app_design.png" />
@@ -29,14 +29,14 @@
     <meta property="og:image:height" content="600" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@it_devsamurai" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZPro Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2019/06/app_design.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2019/06/app_design.png","width":600,"height":600},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#webpage","url":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/","name":"\u0110i\u1ec1u ch\u1ec9nh, m\u1edf r\u1ed9ng t\u00ednh n\u0103ng Atlassian | AZPro Vietnam| \u0110\u1ed1i t\u00e1c Atlassian","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#primaryimage"},"datePublished":"2022-10-25T17:00:30+00:00","dateModified":"2022-12-09T09:58:22+00:00","description":"AZPro Vi\u1ec7t Nam h\u1ed7 tr\u1ee3 \u0111i\u1ec1u ch\u1ec9nh, ph\u00e1t tri\u1ec3n th\u00eam t\u00ednh n\u0103ng c\u1ee7a Jira, Confluence, Bitbucket,... ph\u00f9 h\u1ee3p v\u1edbi nhu c\u1ea7u v\u00e0 \u0111\u1eb7c tr\u01b0ng c\u1ee7a nh\u00f3m, doanh nghi\u1ec7p.","breadcrumb":{"@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"11.Ph\u00e1t tri\u1ec3n t\u00ednh n\u0103ng Atlassian"}]}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2019/06/app_design.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2019/06/app_design.png","width":600,"height":600},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#webpage","url":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/","name":"\u0110i\u1ec1u ch\u1ec9nh, m\u1edf r\u1ed9ng t\u00ednh n\u0103ng Atlassian | AZ Soft Vietnam| \u0110\u1ed1i t\u00e1c Atlassian","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#primaryimage"},"datePublished":"2022-10-25T17:00:30+00:00","dateModified":"2022-12-09T09:58:22+00:00","description":"AZ Soft Vi\u1ec7t Nam h\u1ed7 tr\u1ee3 \u0111i\u1ec1u ch\u1ec9nh, ph\u00e1t tri\u1ec3n th\u00eam t\u00ednh n\u0103ng c\u1ee7a Jira, Confluence, Bitbucket,... ph\u00f9 h\u1ee3p v\u1edbi nhu c\u1ea7u v\u00e0 \u0111\u1eb7c tr\u01b0ng c\u1ee7a nh\u00f3m, doanh nghi\u1ec7p.","breadcrumb":{"@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/phat-trien-tinh-nang-atlassian/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"11.Ph\u00e1t tri\u1ec3n t\u00ednh n\u0103ng Atlassian"}]}]}</script>
     <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZPro Vietnam &raquo;" href="../feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZPro Vietnam &raquo;" href="../comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZ Soft Vietnam &raquo;" href="../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZ Soft Vietnam &raquo;" href="../comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script
         src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
@@ -381,7 +381,7 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZPro Vietnam" /></a>
+                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="http://az-page.test/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
@@ -480,7 +480,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-88b5083 custom-underline-component elementor-widget elementor-widget-heading" data-id="88b5083" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default">Phát triển Hệ sinh thái Atlassian cùng AZPro Vietnam</h2>		</div>
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Phát triển Hệ sinh thái Atlassian cùng AZ Soft Vietnam</h2>		</div>
                                                                     </div>
                                                                     <section class="elementor-section elementor-inner-section elementor-element elementor-element-0208af7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0208af7" data-element_type="section">
                                                                         <div class="elementor-container elementor-column-gap-default">
@@ -678,7 +678,7 @@ Tìm kiếm chuyên gia phát triển add-on của Atlassian.					</span>
                                                                                             <div class="elementor-element elementor-element-dbb39e9 elementor-widget elementor-widget-text-editor" data-id="dbb39e9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>AZPro Việt Nam giúp doanh nghiệp hiện thực hoá ý tưởng và xây dựng công cụ riêng phù hợp với nhu cầu của từng doanh nghiệp.</p>					</div>
+                                                                                                        <p>AZ Soft Việt Nam giúp doanh nghiệp hiện thực hoá ý tưởng và xây dựng công cụ riêng phù hợp với nhu cầu của từng doanh nghiệp.</p>					</div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-e26bbea elementor-button-info elementor-widget elementor-widget-button" data-id="e26bbea" data-element_type="widget" data-widget_type="button.default">
@@ -752,7 +752,7 @@ Tìm kiếm chuyên gia phát triển add-on của Atlassian.					</span>
                                                                                             <div class="elementor-element elementor-element-8228d68 elementor-widget elementor-widget-text-editor" data-id="8228d68" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Các chuyên gia của AZPro Vietnam hỗ trợ doanh nghiệp từ tất cả các bước của vòng đời phát triển. Với nhiều năm kinh nghiệm và kiến ​​thức chuyên môn về Atlassian API, chúng tôi giúp khách hàng duy trì tính năng cũ, phát triển, mở rộng các tính năng mới <strong>nhanh chóng &#8211; hiệu quả &#8211; tiết kiệm chi phí</strong>. </p>					</div>
+                                                                                                        <p>Các chuyên gia của AZ Soft Vietnam hỗ trợ doanh nghiệp từ tất cả các bước của vòng đời phát triển. Với nhiều năm kinh nghiệm và kiến ​​thức chuyên môn về Atlassian API, chúng tôi giúp khách hàng duy trì tính năng cũ, phát triển, mở rộng các tính năng mới <strong>nhanh chóng &#8211; hiệu quả &#8211; tiết kiệm chi phí</strong>. </p>					</div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-1c4847a elementor-widget elementor-widget-heading" data-id="1c4847a" data-element_type="widget" data-widget_type="heading.default">
@@ -855,7 +855,7 @@ Phiên bản Forge App					</span>
                                                                                             <div class="elementor-element elementor-element-feded2e elementor-widget elementor-widget-text-editor" data-id="feded2e" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Trong kỷ nguyên kỹ thuật số, trực quan hóa dữ liệu trở thành một chìa khóa cho kinh doanh.</p><p>AZPro Vietnam tận dụng điểm mạnh của hầu hết các API Atlassian hữu ích và các công nghệ khác để giúp khách hàng xây dựng môi trường để xử lý kết nối giữa các sản phẩm Atlassian (Jira, Confluence, Bitbucket) với các công cụ của bên thứ ba khác như Salesforce, Tableau, Power BI nhằm mục đích trực quan hóa dữ liệu và ý tưởng kinh doanh khác.</p>					</div>
+                                                                                                        <p>Trong kỷ nguyên kỹ thuật số, trực quan hóa dữ liệu trở thành một chìa khóa cho kinh doanh.</p><p>AZ Soft Vietnam tận dụng điểm mạnh của hầu hết các API Atlassian hữu ích và các công nghệ khác để giúp khách hàng xây dựng môi trường để xử lý kết nối giữa các sản phẩm Atlassian (Jira, Confluence, Bitbucket) với các công cụ của bên thứ ba khác như Salesforce, Tableau, Power BI nhằm mục đích trực quan hóa dữ liệu và ý tưởng kinh doanh khác.</p>					</div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-e028ca8 elementor-widget elementor-widget-heading" data-id="e028ca8" data-element_type="widget" data-widget_type="heading.default">
@@ -1020,7 +1020,7 @@ Thiết thực					</span>
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-6166c82 custom-underline-component elementor-widget elementor-widget-heading" data-id="6166c82" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default">Lý do lựa chọn AZPro Vietnam </h2>		</div>
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Lý do lựa chọn AZ Soft Vietnam </h2>		</div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-2c337ad elementor-widget elementor-widget-spacer" data-id="2c337ad" data-element_type="widget" data-widget_type="spacer.default">
                                                                         <div class="elementor-widget-container">
@@ -1115,7 +1115,7 @@ Thiết thực					</span>
                                                                                                                             </div>
                                                                                                                             <p class="eael-elements-flip-box-heading"></p>
                                                                                                                             <div class="eael-elements-flip-box-content">
-                                                                                                                                <p><p>AZPro Vietnam được tin tưởng bởi các vendor hàng đầu trên Marketplace như Ricksoft ,INC....</p></p>
+                                                                                                                                <p><p>AZ Soft Vietnam được tin tưởng bởi các vendor hàng đầu trên Marketplace như Ricksoft ,INC....</p></p>
                                                                                                                             </div>
                                                                                                                         </div>
                                                                                                                     </div>
@@ -1163,7 +1163,7 @@ Thiết thực					</span>
                                                                                                                             </div>
                                                                                                                             <p class="eael-elements-flip-box-heading"></p>
                                                                                                                             <div class="eael-elements-flip-box-content">
-                                                                                                                                <p><p>AZPro Vietnam đã hỗ trợ khách hàng xây dựng, bảo trì cho trên 20 ứng dụng add-on của Atlassian.</p></p>
+                                                                                                                                <p><p>AZ Soft Vietnam đã hỗ trợ khách hàng xây dựng, bảo trì cho trên 20 ứng dụng add-on của Atlassian.</p></p>
                                                                                                                             </div>
                                                                                                                         </div>
                                                                                                                     </div>
@@ -1249,7 +1249,7 @@ Thiết thực					</span>
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-building"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZPro Vietnam., JSC</span></span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft Vietnam., JSC</span></span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
@@ -1363,7 +1363,7 @@ Thiết thực					</span>
                                                             <div class="elementor-element elementor-element-3d002308 elementor-widget elementor-widget-text-editor" data-id="3d002308" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>AZPro Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZPro Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
+                                                                        <p>AZ Soft Vietnam hỗ trợ khách hàng hiện đại hóa, tự động hóa công đoạn kinh doanh và phát triển phần mềm thông qua việc tận dụng tối đa thế mạnh của nền tảng điện toán đám mây mới nhất, công cụ devops và phương pháp phát triển phần mềm linh hoạt.</p><p>Đội ngũ của AZ Soft Vietnam cung cấp chuyên môn tư vấn hàng đầu trong ngành, cung cấp dịch vụ phát triển phần mềm và các sản phẩm, giải pháp tiên tiến cho tất cả các bước của vòng đời phát triển phần mềm (SDLC).</p>					</div>
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-8430210 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="8430210" data-element_type="widget" data-widget_type="social-icons.default">
@@ -1466,7 +1466,7 @@ Thiết thực					</span>
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
                                                                             <a href="../ve-ds-solution-vietnam/index.html" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Về AZPro Vietnam</span>
+                                                                                <span class="elementor-icon-list-text">・Về AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
@@ -1511,7 +1511,7 @@ Thiết thực					</span>
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-2d7e95e9 elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="2d7e95e9" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZPRO"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
+                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZ Soft"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1563,7 +1563,7 @@ Thiết thực					</span>
                                                             <div class="elementor-element elementor-element-3e9d6f9 elementor-widget elementor-widget-text-editor" data-id="3e9d6f9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZPro VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>
