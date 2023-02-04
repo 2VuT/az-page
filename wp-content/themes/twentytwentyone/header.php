@@ -357,7 +357,7 @@
                 <div id="site-navigation-wrap" class="clr">
                     <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
                         <ul id="menu-main_vi" class="main-menu dropdown-menu sf-menu">
-                            <li id="menu-item-10488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10474 current_page_item menu-item-10488"><a href="#" class="menu-link"><span class="text-wrap">Trang Chủ</span></a></li>
+                            <li id="menu-item-10488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10474 current_page_item menu-item-10488"><a href="vi" class="menu-link"><span class="text-wrap">Trang Chủ</span></a></li>
                             <li id="menu-item-10489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10489"><a href="/google-cloud-platform-vi" class="menu-link"><span class="text-wrap">GCP</span></a></li>
                             <li id="menu-item-11899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-11899"><a href="dich-vu-atlassian/" class="menu-link"><span class="text-wrap">Atlassian</span></a>
                                 <ul class="sub-menu">
