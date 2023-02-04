@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Sat, 04 Feb 2023 11:47:16 at https://www.dssolution.vn/en/ 8080
+(winhttrack https://www.dssolution.vn/en/ -O "/Users/vntheflash/websites/az-soft-en" -%v 8080 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:48:32	Warning: 	Unexpected socket error during pre-loop
+11:48:34	Warning: 	Unexpected socket error during pre-loop
+11:48:35	Error: 	"Receive Error" (-4) after 2 retries at link 8080/robots.txt (from primary/primary)
+11:48:35	Warning: 	Retry after error -4 (Receive Error) at link 8080/ (from primary/primary)
+11:48:35	Error: 	"Not Found" (404) at link https://www.dssolution.vn/en/comments/feed/ (from https://www.dssolution.vn/en/)
+11:49:50	Warning: 	Unexpected socket error during pre-loop
+11:49:51	Warning: 	Retry after error -4 (Receive Error) at link 8080/ (from primary/primary)
+11:49:51	Warning: 	Moved Permanently for https://www.dssolution.vn/en/contact/
+11:49:51	Warning: 	File has moved from https://www.dssolution.vn/en/contact/ to https://www.dssolution.vn/en/contact-dss-vietnam/
+11:51:06	Warning: 	Unexpected socket error during pre-loop
+11:51:07	Error: 	"Receive Error" (-4) after 2 retries at link 8080/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 53 seconds : 32 links scanned, 25 files written (1488036 bytes overall) [401088 bytes received at 1721 bytes/sec], 1488163 bytes transferred using HTTP compression in 26 files, ratio 21%, 2.2 requests per connection
+(3 errors, 8 warnings, 0 messages)

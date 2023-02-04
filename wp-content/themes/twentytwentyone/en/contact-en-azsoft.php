@@ -15,28 +15,28 @@
     <link rel="alternate" href="index.html" hreflang="en" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Contact | DS Solution Vietnam | IT outsourcing company</title>
-    <meta name="description" content="DSS Vietnam is a branch company of DS Solution which based in APAC and Japan. We provide IoT development, Cloud consulting &amp; development service, IT outsourcing" />
+    <title>Contact | AZ Soft Vietnam | IT outsourcing company</title>
+    <meta name="description" content="DSS Vietnam is a branch company of AZ Soft which based in APAC and Japan. We provide IoT development, Cloud consulting &amp; development service, IT outsourcing" />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:locale:alternate" content="vi_VN" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Contact | DS Solution Vietnam | IT outsourcing company" />
-    <meta property="og:description" content="DSS Vietnam is a branch company of DS Solution which based in APAC and Japan. We provide IoT development, Cloud consulting &amp; development service, IT outsourcing" />
+    <meta property="og:title" content="Contact | AZ Soft Vietnam | IT outsourcing company" />
+    <meta property="og:description" content="DSS Vietnam is a branch company of AZ Soft which based in APAC and Japan. We provide IoT development, Cloud consulting &amp; development service, IT outsourcing" />
     <meta property="og:url" content="index.html" />
-    <meta property="og:site_name" content="DS Solution Vietnam" />
+    <meta property="og:site_name" content="AZ Soft Vietnam" />
     <meta property="article:publisher" content="https://www.facebook.com/itdevsamurai/" />
     <meta property="article:modified_time" content="2022-12-09T10:13:24+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@it_devsamurai" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/en/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/en/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/en/#logo","inLanguage":"en-US","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/en/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/en/#website","url":"https://www.dssolution.vn/en/","name":"DS Solution Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/en/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.dssolution.vn/en/contact-dss-vietnam/#webpage","url":"https://www.dssolution.vn/en/contact-dss-vietnam/","name":"Contact | DS Solution Vietnam | IT outsourcing company","isPartOf":{"@id":"https://www.dssolution.vn/en/#website"},"datePublished":"2019-02-25T14:44:14+00:00","dateModified":"2022-12-09T10:13:24+00:00","description":"DSS Vietnam is a branch company of DS Solution which based in APAC and Japan. We provide IoT development, Cloud consulting & development service, IT outsourcing","breadcrumb":{"@id":"https://www.dssolution.vn/en/contact-dss-vietnam/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/en/contact-dss-vietnam/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/en/contact-dss-vietnam/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/en/"},{"@type":"ListItem","position":2,"name":"7.Contact EN"}]}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/en/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/en/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/en/#logo","inLanguage":"en-US","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/en/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/en/#website","url":"https://www.dssolution.vn/en/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/en/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.dssolution.vn/en/contact-dss-vietnam/#webpage","url":"https://www.dssolution.vn/en/contact-dss-vietnam/","name":"Contact | AZ Soft Vietnam | IT outsourcing company","isPartOf":{"@id":"https://www.dssolution.vn/en/#website"},"datePublished":"2019-02-25T14:44:14+00:00","dateModified":"2022-12-09T10:13:24+00:00","description":"DSS Vietnam is a branch company of AZ Soft which based in APAC and Japan. We provide IoT development, Cloud consulting & development service, IT outsourcing","breadcrumb":{"@id":"https://www.dssolution.vn/en/contact-dss-vietnam/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/en/contact-dss-vietnam/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/en/contact-dss-vietnam/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/en/"},{"@type":"ListItem","position":2,"name":"7.Contact EN"}]}]}</script>
     <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="DS Solution Vietnam &raquo; Feed" href="../feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="DS Solution Vietnam &raquo; Comments Feed" href="../comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="AZ Soft Vietnam &raquo; Feed" href="../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="AZ Soft Vietnam &raquo; Comments Feed" href="../comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script
             src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
@@ -368,12 +368,21 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="../index.html" class="custom-logo-link" rel="home"><img width="1422" height="454" src="https://www.dssolution.vn/wp-content/uploads/2022/10/dssvn_logo_round_dark_edited2.png" class="custom-logo" alt="DS Solution Vietnam" /></a>
+                        <a href="en" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
                     <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
-                        <ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-9340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-9340"><a href="../index.html" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-2470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470"><a href="../gcp-en/index.html" class="menu-link"><span class="text-wrap">GCP</span></a></li><li id="menu-item-10063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10063"><a href="../atlassian-en/index.html" class="menu-link"><span class="text-wrap">Atlassian</span></a></li><li id="menu-item-9652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9652"><a href="../software-development-en/index.html" class="menu-link"><span class="text-wrap">Software Development</span></a></li><li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2515"><a href="../blogs-en/index.html" class="menu-link"><span class="text-wrap">Blog</span></a></li><li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="../about-dssolution-vietnam/index.html" class="menu-link"><span class="text-wrap">About Us</span></a></li><li id="menu-item-6447" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4703 current_page_item menu-item-6447"><a href="index.html" class="menu-link"><span class="text-wrap">Contact Us</span></a></li><li id="menu-item-542-vi" class="lang-item lang-item-574 lang-item-vi lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-542-vi"><a href="https://www.dssolution.vn/vi/contact-vi/" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li><li id="menu-item-542-en" class="lang-item lang-item-5 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-542-en"><a href="index.html" hreflang="en-US" lang="en-US" class="menu-link"><span class="text-wrap">EN</span></a></li></ul>
+                        <ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-9340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1014 current_page_item menu-item-9340"><a href="en" class="menu-link"><span class="text-wrap">Home</span></a></li>
+                            <li id="menu-item-2470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470"><a href="gcp-en" class="menu-link"><span class="text-wrap">GCP</span></a></li>
+                            <li id="menu-item-10063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10063"><a href="atlassian-en" class="menu-link"><span class="text-wrap">Atlassian</span></a></li>
+                            <li id="menu-item-9652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9652"><a href="software-development-en" class="menu-link"><span class="text-wrap">Software Development</span></a></li>
+                            <li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2515"><a href="blogs-en" class="menu-link"><span class="text-wrap">Blog</span></a></li>
+                            <li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="about-az-soft-vietnam" class="menu-link"><span class="text-wrap">About Us</span></a></li>
+                            <li id="menu-item-6447" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page menu-item-6447"><a href="contact-az-soft-en" class="menu-link"><span class="text-wrap">Contact Us</span></a></li>
+                            <li id="menu-item-542-vi" class="lang-item lang-item-574 lang-item-vi lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-542-vi"><a href="vi" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li>
+                            <li id="menu-item-542-en" class="lang-item lang-item-5 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-542-en"><a href="en" hreflang="en-US" lang="en-US" class="menu-link"><span class="text-wrap">EN</span></a></li>
+                        </ul>
                     </nav><!-- #site-navigation -->
                 </div><!-- #site-navigation-wrap -->
                 <div class="oceanwp-mobile-menu-icon clr mobile-right">
@@ -434,7 +443,7 @@
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-building"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">DS SOLUTION VIETNAM ., JSC.</span></span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft VIETNAM ., JSC.</span></span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
@@ -534,7 +543,7 @@
                                                             <div class="elementor-element elementor-element-5a29be56 elementor-widget elementor-widget-text-editor" data-id="5a29be56" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>DS Solution Vietnam., JSC is a branch company of DS Solution,INC. &#8211; an IT services firm based in Japan and APAC. We provide IT consulting and IT outsourcing, offshoring software development services. We help customers to transform IT to next level with latest cloud computing platform, devops tools and best practices. </p><p>With 15-year IT experience and a strong team of full-stack software engineers and consultants, we help our clients to achieve unsurpassed quality at all stages of the web, mobile, and desktop application development. By providing multiple time-zone teams and different formats of working (onsite, remote, hybrid, etc.), we help organizations across the globe to gain sustainable competitive advantage through the adoption of innovative technologies.</p>					</div>
+                                                                        <p>AZ Soft Vietnam., JSC is a branch company of AZ Soft,INC. &#8211; an IT services firm based in Japan and APAC. We provide IT consulting and IT outsourcing, offshoring software development services. We help customers to transform IT to next level with latest cloud computing platform, devops tools and best practices. </p><p>With 15-year IT experience and a strong team of full-stack software engineers and consultants, we help our clients to achieve unsurpassed quality at all stages of the web, mobile, and desktop application development. By providing multiple time-zone teams and different formats of working (onsite, remote, hybrid, etc.), we help organizations across the globe to gain sustainable competitive advantage through the adoption of innovative technologies.</p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -616,7 +625,7 @@
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
                                                                             <a href="../about-dssolution-vietnam/index.html" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・About DS Solution Vietnam</span>
+                                                                                <span class="elementor-icon-list-text">・About AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
@@ -659,7 +668,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-62ef71fa elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="62ef71fa" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="EN" data-chrome="noheader nofooter transparent" href="https://twitter.com/DSSolution8"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
+                                                                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCTAZ Soft&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>		</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -711,7 +720,7 @@
                                                             <div class="elementor-element elementor-element-8c00f6b elementor-widget elementor-widget-text-editor" data-id="8c00f6b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 DS SOLUTION VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

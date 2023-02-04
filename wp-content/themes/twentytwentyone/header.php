@@ -351,13 +351,13 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="index.html" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
+                        <a href="vi" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
                     <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
                         <ul id="menu-main_vi" class="main-menu dropdown-menu sf-menu">
-                            <li id="menu-item-10488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10474 current_page_item menu-item-10488"><a href="index.html" class="menu-link"><span class="text-wrap">Trang Chủ</span></a></li>
+                            <li id="menu-item-10488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10474 current_page_item menu-item-10488"><a href="#" class="menu-link"><span class="text-wrap">Trang Chủ</span></a></li>
                             <li id="menu-item-10489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10489"><a href="/google-cloud-platform-vi" class="menu-link"><span class="text-wrap">GCP</span></a></li>
                             <li id="menu-item-11899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-11899"><a href="dich-vu-atlassian/" class="menu-link"><span class="text-wrap">Atlassian</span></a>
                                 <ul class="sub-menu">
@@ -375,8 +375,8 @@
                             <li id="menu-item-12300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12300"><a href="about-us" class="menu-link"><span class="text-wrap">Về chúng tôi</span></a></li>
                             <li id="menu-item-10817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10817"><a href="tuyen-dung" class="menu-link"><span class="text-wrap">Tuyển dụng</span></a></li>
                             <li id="menu-item-10750" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page menu-item-10750"><a href="contact-vi" class="menu-link"><span class="text-wrap">Liên hệ</span></a></li>
-<!--                            <li id="menu-item-10494-vi" class="lang-item lang-item-574 lang-item-vi current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-10494-vi"><a href="index.html" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li>-->
-<!--                            <li id="menu-item-10494-en" class="lang-item lang-item-5 lang-item-en menu-item menu-item-type-custom menu-item-object-custom menu-item-10494-en"><a href="https://www.dssolution.vn/en/" hreflang="en-US" lang="en-US" class="menu-link"><span class="text-wrap">EN</span></a></li>-->
+                            <li id="menu-item-10494-vi" class="lang-item lang-item-574 lang-item-vi current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-10494-vi"><a href="vi" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li>
+                            <li id="menu-item-10494-en" class="lang-item lang-item-5 lang-item-en menu-item menu-item-type-custom menu-item-object-custom menu-item-10494-en"><a href="en" hreflang="en-US" lang="en-US" class="menu-link"><span class="text-wrap">EN</span></a></li>
                         </ul>
                     </nav><!-- #site-navigation -->
                 </div><!-- #site-navigation-wrap -->
