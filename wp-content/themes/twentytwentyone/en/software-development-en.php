@@ -383,20 +383,20 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="en" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
+                        <a href="/en" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
                     <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
-                        <ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-9340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1014 current_page_item menu-item-9340"><a href="en" class="menu-link"><span class="text-wrap">Home</span></a></li>
-                            <li id="menu-item-2470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470"><a href="gcp-en" class="menu-link"><span class="text-wrap">GCP</span></a></li>
-                            <li id="menu-item-10063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10063"><a href="atlassian-en" class="menu-link"><span class="text-wrap">Atlassian</span></a></li>
-                            <li id="menu-item-9652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9652"><a href="software-development-en" class="menu-link"><span class="text-wrap">Software Development</span></a></li>
-                            <li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2515"><a href="blogs-en" class="menu-link"><span class="text-wrap">Blog</span></a></li>
-                            <li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="about-az-soft-vietnam" class="menu-link"><span class="text-wrap">About Us</span></a></li>
-                            <li id="menu-item-6447" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page menu-item-6447"><a href="contact-az-soft-en" class="menu-link"><span class="text-wrap">Contact Us</span></a></li>
-                            <li id="menu-item-542-vi" class="lang-item lang-item-574 lang-item-vi lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-542-vi"><a href="vi" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li>
-                            <li id="menu-item-542-en" class="lang-item lang-item-5 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-542-en"><a href="en" hreflang="en-US" lang="en-US" class="menu-link"><span class="text-wrap">EN</span></a></li>
+                        <ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-9340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1014 current_page_item menu-item-9340"><a href="/en" class="menu-link"><span class="text-wrap">Home</span></a></li>
+                            <li id="menu-item-2470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470"><a href="/gcp-en" class="menu-link"><span class="text-wrap">GCP</span></a></li>
+                            <li id="menu-item-10063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10063"><a href="/atlassian-en" class="menu-link"><span class="text-wrap">Atlassian</span></a></li>
+                            <li id="menu-item-9652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9652"><a href="/software-development-en" class="menu-link"><span class="text-wrap">Software Development</span></a></li>
+                            <li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2515"><a href="/blogs-en" class="menu-link"><span class="text-wrap">Blog</span></a></li>
+                            <li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="/about-az-soft-vietnam" class="menu-link"><span class="text-wrap">About Us</span></a></li>
+                            <li id="menu-item-6447" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page menu-item-6447"><a href="/contact-az-soft-en" class="menu-link"><span class="text-wrap">Contact Us</span></a></li>
+                            <li id="menu-item-542-vi" class="lang-item lang-item-574 lang-item-vi lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-542-vi"><a href="/vi" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li>
+                            <li id="menu-item-542-en" class="lang-item lang-item-5 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-542-en"><a href="/en" hreflang="en-US" lang="en-US" class="menu-link"><span class="text-wrap">EN</span></a></li>
                         </ul>
                     </nav><!-- #site-navigation -->
                 </div><!-- #site-navigation-wrap -->
