@@ -536,17 +536,17 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../gcp-en/index.html" target="_blank">
+                                                                            <a href="/gcp-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・GCP Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../atlassian-en/index.html" target="_blank">
+                                                                            <a href="/atlassian-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Atlassian Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../software-development-en/index.html" target="_blank">
+                                                                            <a href="../software-development-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Software Development Services</span>
                                                                             </a>
                                                                         </li>
@@ -592,7 +592,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../about-dssolution-vietnam/index.html" target="_blank">
+                                                                            <a href="../about-dssolution-vietnam" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・About AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
@@ -688,7 +688,7 @@
                                                             <div class="elementor-element elementor-element-8c00f6b elementor-widget elementor-widget-text-editor" data-id="8c00f6b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

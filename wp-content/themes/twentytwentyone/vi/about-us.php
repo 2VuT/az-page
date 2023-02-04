@@ -474,7 +474,7 @@
                                                                     <div class="elementor-element elementor-element-5535161 elementor-widget elementor-widget-text-editor" data-id="5535161" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p>Năm 2018, công ty DevSamurai được thành lập với quyết tâm đưa công nghệ và chất lượng phần mềm Nhật Bản ra toàn thế giới.</p><p>Sau 3 năm phát triển, với quyết tâm mở rộng, nâng cao chất lượng dịch vụ phát triển phần mềm, dịch vụ IT Outsourcing và đem lại cho khách hàng trải nghiệm công nghệ mới, ban lãnh đạo của DevSamurai đã quyết định thành lập Công ty Cổ phần AZ Soft Vietnam có trụ sở tại Tầng 12, Tòa Viwaseen Tower, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội và Công ty Cổ phần AZ Soft tại Nhật Bản.</p><p>Với đội ngũ chuyên gia trên 10 năm kinh nghiệm phát triển phần mềm, cùng đội ngũ nhân lực trẻ nhanh nhạy với công nghệ mới, kể từ khi thành lập, AZ Soft Vietnam đã và đang cung cấp giải pháp gia công phần mềm và tư vấn giải pháp IT, giải pháp cloud cho trên 20 doanh nghiệp thuộc 8 quốc gia trong hơn 40 dự án phát triển phần mềm.</p><p>Nếu bạn đang tìm kiếm giải pháp:</p><ul><li>Phát triển phần mềm hiệu quả với chi phí tối ưu.</li><li>Áp dụng công nghệ ngoài lĩnh vực chuyên môn mà không phải lên kế hoạch thuê chuyên gia.</li><li>Phát triển các tính năng bổ sung, plugin mới trên Jira, Confluence hoặc Atlassian Marketplace.</li><li>Xây dựng kiến trúc điện toán đám mây linh hoạt, scale đơn giản cho hệ thống của bạn.</li><li>Lựa chọn nền tảng điện toán đám mây tối ưu với hệ thống hiện có.</li><li>Chuyển đổi dữ liệu sang hệ thống mới&#8230;</li></ul><p>Hãy tập trung vào business và để AZ Soft Vietnam giúp bạn hiện thực hóa ý tưởng của bạn.</p>					</div>
+                                                                                <p>Năm 2018, công ty AZ Soft được thành lập với quyết tâm đưa công nghệ và chất lượng phần mềm Nhật Bản ra toàn thế giới.</p><p>Sau 3 năm phát triển, với quyết tâm mở rộng, nâng cao chất lượng dịch vụ phát triển phần mềm, dịch vụ IT Outsourcing và đem lại cho khách hàng trải nghiệm công nghệ mới, ban lãnh đạo của AZ Soft đã quyết định thành lập Công ty Cổ phần AZ Soft Vietnam có trụ sở tại Tầng 12, Tòa Viwaseen Tower, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội và Công ty Cổ phần AZ Soft tại Nhật Bản.</p><p>Với đội ngũ chuyên gia trên 10 năm kinh nghiệm phát triển phần mềm, cùng đội ngũ nhân lực trẻ nhanh nhạy với công nghệ mới, kể từ khi thành lập, AZ Soft Vietnam đã và đang cung cấp giải pháp gia công phần mềm và tư vấn giải pháp IT, giải pháp cloud cho trên 20 doanh nghiệp thuộc 8 quốc gia trong hơn 40 dự án phát triển phần mềm.</p><p>Nếu bạn đang tìm kiếm giải pháp:</p><ul><li>Phát triển phần mềm hiệu quả với chi phí tối ưu.</li><li>Áp dụng công nghệ ngoài lĩnh vực chuyên môn mà không phải lên kế hoạch thuê chuyên gia.</li><li>Phát triển các tính năng bổ sung, plugin mới trên Jira, Confluence hoặc Atlassian Marketplace.</li><li>Xây dựng kiến trúc điện toán đám mây linh hoạt, scale đơn giản cho hệ thống của bạn.</li><li>Lựa chọn nền tảng điện toán đám mây tối ưu với hệ thống hiện có.</li><li>Chuyển đổi dữ liệu sang hệ thống mới&#8230;</li></ul><p>Hãy tập trung vào business và để AZ Soft Vietnam giúp bạn hiện thực hóa ý tưởng của bạn.</p>					</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -503,7 +503,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <ul class="elementor-icon-list-items">
                                                                                 <li class="elementor-icon-list-item">
-                                                                                    <a href="../google-cloud-platform-vi/index.html" target="_blank">
+                                                                                    <a href="/gcp" target="_blank">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-cloud"></i>						</span>
                                                                                         <span class="elementor-icon-list-text">Hỗ trợ áp dụng, chuyển đổi, liên kết cloud platform, xây dựng kiến trúc, kết cấu hạ tầng điện toán đám mây.</span>
@@ -517,7 +517,7 @@
                                                                                     </a>
                                                                                 </li>
                                                                                 <li class="elementor-icon-list-item">
-                                                                                    <a href="../software-development-vi/index.html">
+                                                                                    <a href="/software-development">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fab fa-dev"></i>						</span>
                                                                                         <span class="elementor-icon-list-text">Tư vấn, hỗ trợ kỹ thuật, phát triển - vận hành - bảo trì hệ thống, phần mềm</span>
@@ -580,7 +580,7 @@
                                                                     <div class="elementor-element elementor-element-3e62953 elementor-drop-cap-yes elementor-drop-cap-view-default elementor-widget elementor-widget-text-editor" data-id="3e62953" data-element_type="widget" data-settings="{&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <div style="color: black;"><table class="table_common"><tbody><tr><td class="td_common_title">Tên công ty</td><td class="td_common_detail">Công ty Cổ phần AZ Soft Vietnam</td></tr><tr><td class="td_common_title">Tên viết tắt</td><td class="td_common_detail">AZ Soft Vietnam ., JSC (DSS Vietnam)</td></tr><tr><td class="td_common_title">Ngày thành lập</td><td class="td_common_detail">23/12/2021</td></tr><tr><td class="td_common_title">Vốn điều lệ</td><td class="td_common_detail">3,000,000,000円</td></tr><tr><td class="td_common_title">Địa chỉ</td><td class="td_common_detail">Tầng 12, tòa Viwaseen, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội, Việt Nam.</td></tr><tr><td class="td_common_title">E-Mail</td><td class="td_common_detail">info@dssolution.vn</td></tr><tr><td class="td_common_title">URL</td><td class="td_common_detail"><a href="https://www.dssolution.vn/">https://www.dssolution.vn</a></td></tr></tbody></table></div>					</div>
+                                                                                <div style="color: black;"><table class="table_common"><tbody><tr><td class="td_common_title">Tên công ty</td><td class="td_common_detail">Công ty Cổ phần AZ Soft Vietnam</td></tr><tr><td class="td_common_title">Tên viết tắt</td><td class="td_common_detail">AZ Soft Vietnam ., JSC (DSS Vietnam)</td></tr><tr><td class="td_common_title">Ngày thành lập</td><td class="td_common_detail">23/12/2021</td></tr><tr><td class="td_common_title">Vốn điều lệ</td><td class="td_common_detail">3,000,000,000円</td></tr><tr><td class="td_common_title">Địa chỉ</td><td class="td_common_detail">Tầng 12, tòa Viwaseen, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội, Việt Nam.</td></tr><tr><td class="td_common_title">E-Mail</td><td class="td_common_detail">info@azsoft.vn</td></tr><tr><td class="td_common_title">URL</td><td class="td_common_detail"><a href="https://www.dssolution.vn/">https://www.dssolution.vn</a></td></tr></tbody></table></div>					</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -674,17 +674,17 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../google-cloud-platform-vi/index.html" target="_blank">
+                                                                            <a href="/gcp" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Dịch vụ GCP</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../dich-vu-atlassian/index.html" target="_blank">
+                                                                            <a href="/dich-vu-atlassian" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Giải pháp & Dịch vụ Atlassian</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../software-development-vi/index.html" target="_blank">
+                                                                            <a href="/software-development" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Dịch vụ Phát triển phần mềm</span>
                                                                             </a>
                                                                         </li>
@@ -753,7 +753,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../tuyen-dung/index.html" target="_blank">
+                                                                            <a href="/tuyen-dung" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Thông tin tuyển dụng</span>
                                                                             </a>
                                                                         </li>
@@ -828,7 +828,7 @@
                                                             <div class="elementor-element elementor-element-3e9d6f9 elementor-widget elementor-widget-text-editor" data-id="3e9d6f9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="/privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

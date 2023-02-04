@@ -478,12 +478,12 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-379fec2 elementor-widget elementor-widget-heading" data-id="379fec2" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-large">Company Profile</h2>		</div>
+                                                                            <h2 class="elementor-heading-title elementor-size-large">info@azsoft.vn</h2>		</div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-ef9e033 elementor-drop-cap-yes elementor-drop-cap-view-default elementor-widget elementor-widget-text-editor" data-id="ef9e033" data-element_type="widget" data-settings="{&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <div style="color: black;"><table class="table_common"><tbody><tr><td class="td_common_title">Name</td><td class="td_common_detail">AZ Soft VIETNAM ., JSC.</td></tr><tr><td class="td_common_title">Established Date</td><td class="td_common_detail">2021/12/23</td></tr><tr><td class="td_common_title">Capital</td><td class="td_common_detail">3,000,000,000 VND</td></tr><tr><td class="td_common_title">Address</td><td class="td_common_detail">Head office:<br />12 Floor Viwaseen tower, No.48 To Huu street, Trung Van ward, Nam Tu Liem district, Hanoi city, Viet Nam<br /><br /><br />Tokyo office:<br />4F Shiroyama Trust Tower, Toranomon 4-3-1, Minato City, Tokyo, 105-6004 Japan</td></tr><tr><td class="td_common_title">E-Mail</td><td class="td_common_detail"><a href="mailto:info@dssolution.vn">info@dssolution.vn</a></td></tr><tr><td class="td_common_title">URL</td><td class="td_common_detail"><a href="https://www.dssolution.vn/">https://www.dssolution.vn</a></td></tr></tbody></table></div>					</div>
+                                                                                <div style="color: black;"><table class="table_common"><tbody><tr><td class="td_common_title">Name</td><td class="td_common_detail">AZ Soft VIETNAM ., JSC.</td></tr><tr><td class="td_common_title">Established Date</td><td class="td_common_detail">2021/12/23</td></tr><tr><td class="td_common_title">Capital</td><td class="td_common_detail">3,000,000,000 VND</td></tr><tr><td class="td_common_title">Address</td><td class="td_common_detail">Head office:<br />12 Floor Viwaseen tower, No.48 To Huu street, Trung Van ward, Nam Tu Liem district, Hanoi city, Viet Nam<br /><br /><br />Tokyo office:<br />4F Shiroyama Trust Tower, Toranomon 4-3-1, Minato City, Tokyo, 105-6004 Japan</td></tr><tr><td class="td_common_title">E-Mail</td><td class="td_common_detail"><a href="mailto:info@azsoft.vn">info@azsoft.vn</a></td></tr><tr><td class="td_common_title">URL</td><td class="td_common_detail"><a href="https://www.dssolution.vn/">http://az-soft.vn/</a></td></tr></tbody></table></div>					</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -556,17 +556,17 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../gcp-en/index.html" target="_blank">
+                                                                            <a href="/gcp-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・GCP Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../atlassian-en/index.html" target="_blank">
+                                                                            <a href="/atlassian-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Atlassian Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../software-development-en/index.html" target="_blank">
+                                                                            <a href="/software-development-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Software Development Services</span>
                                                                             </a>
                                                                         </li>
@@ -589,7 +589,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../blogs-en/index.html" target="_blank">
+                                                                            <a href="/blogs-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Blog</span>
                                                                             </a>
                                                                         </li>
@@ -612,7 +612,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="index.html" target="_blank">
+                                                                            <a href="#" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・About AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
@@ -708,7 +708,7 @@
                                                             <div class="elementor-element elementor-element-8c00f6b elementor-widget elementor-widget-text-editor" data-id="8c00f6b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="/privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

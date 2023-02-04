@@ -1098,7 +1098,7 @@
                                                                                                                 <i aria-hidden="true" class="fas fa-envelope"></i>
                                                                                                             </span>
                                                                                                             <span class="elementor-icon-list-text">
-                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@dssolution.vn</span>
+                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@azsoft.vn</span>
                                                                                                             </span>
                                                                                                         </li>
                                                                                                     </ul>

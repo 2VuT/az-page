@@ -506,7 +506,7 @@
                                                                                             <div class="elementor-element elementor-element-57be674 elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="57be674" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-button-wrapper">
-                                                                                                        <a href="gcp-en/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                                        <a href="/gcp-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">See more</span>
 </span>
@@ -553,7 +553,7 @@
                                                                                             <div class="elementor-element elementor-element-ccbb407 elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="ccbb407" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-button-wrapper">
-                                                                                                        <a href="gcp-en/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                                        <a href="gcp-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">See more</span>
 </span>
@@ -620,7 +620,7 @@
                                                                                             <div class="elementor-element elementor-element-b86353d elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="b86353d" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-button-wrapper">
-                                                                                                        <a href="atlassian-en/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                                        <a href="/atlassian-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">See more</span>
 </span>
@@ -673,7 +673,7 @@
                                                                                             <div class="elementor-element elementor-element-410e9dd elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="410e9dd" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-button-wrapper">
-                                                                                                        <a href="software-development-en/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                                        <a href="/software-development-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">See more</span>
 </span>
@@ -742,7 +742,7 @@
                                                                                             <div class="elementor-element elementor-element-99ee456 elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="99ee456" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-button-wrapper">
-                                                                                                        <a href="software-development-en/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                                        <a href="/software-development-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">See more</span>
 </span>
@@ -948,7 +948,7 @@
                                                                     <div class="elementor-element elementor-element-7c30000 elementor-align-center elementor-widget elementor-widget-button" data-id="7c30000" data-element_type="widget" data-widget_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="blogs-en/index.html" class="elementor-button-link elementor-button elementor-size-md" role="button">
+                                                                                <a href="/blogs-en" class="elementor-button-link elementor-button elementor-size-md" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-icon elementor-align-icon-left">
 <i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>			</span>
@@ -1079,7 +1079,7 @@
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-envelope"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@dssolution.vn</span></span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@azsoft.vn</span></span>
                                                                                                         </li>
                                                                                                     </ul>
                                                                                                 </div>
@@ -1189,17 +1189,17 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="gcp-en/index.html" target="_blank">
+                                                                            <a href="gcp-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・GCP Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="atlassian-en/index.html" target="_blank">
+                                                                            <a href="atlassian-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Atlassian Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="software-development-en/index.html" target="_blank">
+                                                                            <a href="/software-development-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Software Development Services</span>
                                                                             </a>
                                                                         </li>
@@ -1222,7 +1222,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="blogs-en/index.html" target="_blank">
+                                                                            <a href="blogs-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Blog</span>
                                                                             </a>
                                                                         </li>
@@ -1245,7 +1245,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="about-dssolution-vietnam/index.html" target="_blank">
+                                                                            <a href="/about-dssolution-vietnam" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・About AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
@@ -1341,7 +1341,7 @@
                                                             <div class="elementor-element elementor-element-8c00f6b elementor-widget elementor-widget-text-editor" data-id="8c00f6b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="privacy-policy-en/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>

@@ -438,7 +438,7 @@
                                                                                 <ul><li>Visit our website at <a href="https://www.dssolution.vn/">https://www.dssolution.vn/</a> , or any website of ours that links to this privacy notice</li><li>Engage with us in other related ways ― including any sales, marketing, or events</li></ul>
                                                                                 <!-- /wp:list -->
                                                                                 <!-- wp:paragraph -->
-                                                                                <p>Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at info@dssolution.vn.</p>
+                                                                                <p>Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at info@azsoft.vn.</p>
                                                                                 <!-- /wp:paragraph -->
                                                                                 <!-- wp:heading -->
                                                                                 <h2><strong>SUMMARY OF KEY POINTS</strong><strong></strong></h2>
@@ -600,7 +600,7 @@
                                                                                 <h2><strong>9. COMPLAINTS</strong></h2>
                                                                                 <!-- /wp:heading -->
                                                                                 <!-- wp:paragraph -->
-                                                                                <p>If you wish to make a complaint about how your personal data is being processed by AZ Soft Vietnam or how your complaint has been handled, you have the right to lodge a complaint directly to us by email at <a href="mailto:info@dssolution.vn">info@dssolution.vn</a>, or by post to 12F Viwaseen Tower, 48 To Huu, Trung Van, Nam Tu Liem, Ha Noi, Vietnam.</p>
+                                                                                <p>If you wish to make a complaint about how your personal data is being processed by AZ Soft Vietnam or how your complaint has been handled, you have the right to lodge a complaint directly to us by email at <a href="mailto:info@azsoft.vn">info@azsoft.vn</a>, or by post to 12F Viwaseen Tower, 48 To Huu, Trung Van, Nam Tu Liem, Ha Noi, Vietnam.</p>
                                                                                 <!-- /wp:paragraph -->					</div>
                                                                         </div>
                                                                     </div>
@@ -698,17 +698,17 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../gcp-en/index.html" target="_blank">
+                                                                            <a href="/gcp-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・GCP Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../atlassian-en/index.html" target="_blank">
+                                                                            <a href="/atlassian-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Atlassian Services</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../software-development-en/index.html" target="_blank">
+                                                                            <a href="../software-development-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Software Development Services</span>
                                                                             </a>
                                                                         </li>
@@ -731,7 +731,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../blogs-en/index.html" target="_blank">
+                                                                            <a href="../blogs-en" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Blog</span>
                                                                             </a>
                                                                         </li>
@@ -754,7 +754,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../about-dssolution-vietnam/index.html" target="_blank">
+                                                                            <a href="../about-dssolution-vietnam" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・About AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>

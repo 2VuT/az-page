@@ -466,7 +466,7 @@
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-envelope"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@dssolution.vn</span></span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@azsoft.vn</span></span>
                                                                                                         </li>
                                                                                                     </ul>
                                                                                                 </div>
@@ -616,17 +616,17 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../google-cloud-platform-vi/index.html" target="_blank">
+                                                                            <a href="/gcp" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Dịch vụ GCP</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../dich-vu-atlassian/index.html" target="_blank">
+                                                                            <a href="/dich-vu-atlassian" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Giải pháp & Dịch vụ Atlassian</span>
                                                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../software-development-vi/index.html" target="_blank">
+                                                                            <a href="/software-development" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Dịch vụ Phát triển phần mềm</span>
                                                                             </a>
                                                                         </li>
@@ -672,7 +672,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../ve-ds-solution-vietnam/index.html" target="_blank">
+                                                                            <a href="/about-us" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Về AZ Soft Vietnam</span>
                                                                             </a>
                                                                         </li>
@@ -695,7 +695,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="../tuyen-dung/index.html" target="_blank">
+                                                                            <a href="/tuyen-dung" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Thông tin tuyển dụng</span>
                                                                             </a>
                                                                         </li>
@@ -770,7 +770,7 @@
                                                             <div class="elementor-element elementor-element-3e9d6f9 elementor-widget elementor-widget-text-editor" data-id="3e9d6f9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../ds-solution-vietnam-privacy-policy/index.html" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="/privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
                                                                 </div>
                                                             </div>
                                                         </div>
