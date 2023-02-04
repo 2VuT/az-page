@@ -1,11 +1,5 @@
-/node_modules
 
 wp-config.php
-npm-debug.log
-yarn-error.log
-.idea
-.DS_Store
-*.cache
-*.swp
-
-.vscode
+/plugins
+/backup-db
+/uploads
