@@ -377,7 +377,7 @@
             <div id="site-header-inner" class="clr container">
                 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
                     <div id="site-logo-inner" class="clr">
-                        <a href="/vi" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="http://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
+                        <a href="/vi" class="custom-logo-link" rel="home" aria-current="page"><img width="1422" height="454" src="https://az-soft.vn/wp-content/uploads/2023/02/b1f4b5cdfd4626187f57.jpeg" class="custom-logo" alt="AZ Soft Vietnam" /></a>
                     </div><!-- #site-logo-inner -->
                 </div><!-- #site-logo -->
                 <div id="site-navigation-wrap" class="clr">
