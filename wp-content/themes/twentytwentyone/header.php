@@ -14,10 +14,10 @@
     <link rel="alternate" href="index.html" hreflang="vi" />
     <link rel="alternate" href="https://az-soft.vn/en/" hreflang="en" />
     <link rel="alternate" href="https://az-soft.vn/" hreflang="x-default" />
-    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-270x270.png" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" sizes="32x32" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" />
+    <meta name="msapplication-TileImage" content="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
     <title>AZ Soft Vietnam | Giải pháp IT | Đối tác Atlassian tại Việt Nam</title>
@@ -588,7 +588,7 @@
                                                                                             <div class="elementor-element elementor-element-b86353d elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="b86353d" data-element_type="widget" data-widget_type="button.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-button-wrapper">
-                                                                                                        <a href="dich-vu-atlassian" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                                        <a href="software-development-vi" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                                                                             <span class="elementor-button-content-wrapper">
                                                                                                                 <span class="elementor-button-text">Tìm hiểu thêm</span>
                                                                                                             </span>
@@ -841,7 +841,7 @@
                                                                     <div class="elementor-element elementor-element-584d8ce elementor-align-center elementor-button-danger elementor-widget elementor-widget-button" data-id="584d8ce" data-element_type="widget" data-widget_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="https://www.dssolution.vn/software-development-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                                <a href="https://az-soft.vn/software-development-en" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                                                     <span class="elementor-button-content-wrapper">
                                                                                         <span class="elementor-button-text">Nhận báo giá ngay!</span>
                                                                                     </span>

@@ -17,12 +17,7 @@
                                             <div class="elementor-column-wrap elementor-element-populated">
                                                 <div class="elementor-widget-wrap">
                                                     <div class="elementor-element elementor-element-9bee999 elementor-widget elementor-widget-image" data-id="9bee999" data-element_type="widget" data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-image">
-                                                                <a href="https://partnerdirectory.atlassian.com/" target="_blank">
-                                                                    <img width="1024" height="81" src="https://www.dssolution.vn/wp-content/uploads/2022/09/Atlassian-Partner@2x-white-rgb.png" class="attachment-large size-large" alt="" loading="lazy" />								</a>
-                                                            </div>
-                                                        </div>
+                                                        
                                                     </div>
                                                     <div class="elementor-element elementor-element-4f7f55f6 elementor-widget elementor-widget-heading" data-id="4f7f55f6" data-element_type="widget" data-widget_type="heading.default">
                                                         <div class="elementor-widget-container">
@@ -35,25 +30,6 @@
                                                         </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-8430210 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="8430210" data-element_type="widget" data-widget_type="social-icons.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-social-icons-wrapper elementor-grid">
-<span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-7db2979" href="https://www.facebook.com/profile.php?id=100077702830890" target="_blank">
-<span class="elementor-screen-only">Facebook</span>
-<i class="fab fa-facebook"></i>					</a>
-</span>
-                                                                <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-3d58a58" href="https://www.youtube.com/@dssolutionvietnam" target="_blank">
-<span class="elementor-screen-only">Youtube</span>
-<i class="fab fa-youtube"></i>					</a>
-</span>
-                                                                <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-b57132d" href="https://www.linkedin.com/company/ds-solution-vietnam-jsc/" target="_blank">
-<span class="elementor-screen-only">Linkedin</span>
-<i class="fab fa-linkedin"></i>					</a>
-</span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -83,7 +59,6 @@
                                                                 </li>
                                                             </ul>
                                                         </div>
-                                                    </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-7c2085bb elementor-widget elementor-widget-heading" data-id="7c2085bb" data-element_type="widget" data-widget_type="heading.default">
                                                         <div class="elementor-widget-container">
@@ -139,8 +114,7 @@
                                                 <div class="elementor-widget-wrap">
                                                     <div class="elementor-element elementor-element-2d7e95e9 elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="2d7e95e9" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                         <div class="elementor-widget-container">
-                                                            <h5>Follow us</h5>
-                                                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCTAZ Soft&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
                                                         </div>
                                                     </div>
                                                 </div>
@@ -231,24 +205,7 @@
                                         <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7e801dbe" data-id="7e801dbe" data-element_type="column">
                                             <div class="elementor-column-wrap elementor-element-populated">
                                                 <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-13989f66 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="13989f66" data-element_type="widget" data-widget_type="social-icons.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-social-icons-wrapper elementor-grid">
-<span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-0s01r1l" href="https://twitter.com/it_devsamurai" target="_blank">
-<span class="elementor-screen-only">Twitter</span>
-<i class="fa fa-twitter"></i>
-</a>
-</span>
-                                                                <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f493b5f" href="https://www.facebook.com/itdevsamurai/" target="_blank">
-<span class="elementor-screen-only">Facebook</span>
-<i class="fa fa-facebook"></i>
-</a>
-</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+
                                                 </div>
                                             </div>
                                         </div>

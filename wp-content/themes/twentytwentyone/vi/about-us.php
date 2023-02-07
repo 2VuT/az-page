@@ -34,196 +34,12 @@
     <meta name="twitter:site" content="@it_devsamurai" />
     <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/vi/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/vi/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/#logo","inLanguage":"vi","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/vi/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/vi/#website","url":"https://www.dssolution.vn/vi/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/vi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/vi/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/vi/ve-ds-solution-vietnam/#primaryimage","inLanguage":"vi","url":"https://www.dssolution.vn/wp-content/uploads/2019/02/business-partnership-header-banner-bg.png","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2019/02/business-partnership-header-banner-bg.png","width":848,"height":241},{"@type":"WebPage","@id":"https://www.dssolution.vn/vi/ve-ds-solution-vietnam/#webpage","url":"https://www.dssolution.vn/vi/ve-ds-solution-vietnam/","name":"V\u1ec1 AZ Soft Vietnam | \u0110\u1ed1i t\u00e1c ch\u00ednh th\u1ee9c Atlassian t\u1ea1i Vi\u1ec7t Nam","isPartOf":{"@id":"https://www.dssolution.vn/vi/#website"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/vi/ve-ds-solution-vietnam/#primaryimage"},"datePublished":"2022-01-04T09:38:02+00:00","dateModified":"2022-12-09T10:08:27+00:00","description":"AZ Soft Vietnam l\u00e0 \u0111\u1ed1i t\u00e1c ch\u00ednh th\u1ee9c c\u1ee7a Atlassian t\u1ea1i Vi\u1ec7t Nam. Cung c\u1ea5p gi\u1ea3i ph\u00e1p IT, outsourcing, gi\u1ea3i ph\u00e1p t\u1ef1 \u0111\u1ed9ng h\u00f3a, t\u1ed1i \u01b0u quy tr\u00ecnh qu\u1ea3n l\u00fd...","breadcrumb":{"@id":"https://www.dssolution.vn/vi/ve-ds-solution-vietnam/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/vi/ve-ds-solution-vietnam/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/vi/ve-ds-solution-vietnam/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/vi/"},{"@type":"ListItem","position":2,"name":"6.About Us VI"}]}]}</script>
     <!-- / Yoast SEO plugin. -->
-    <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
-    <link rel='dns-prefetch' href='http://www.google.com/' />
-    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <link rel='dns-prefetch' href='https://www.googletagmanager.com/' />
+    <link rel='dns-prefetch' href='https://www.google.com/' />
+    <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='https://s.w.org/' />
     <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZ Soft Vietnam &raquo;" href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZ Soft Vietnam &raquo;" href="../comments/feed/index.html" />
-    <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-    <script
-        src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
-    <script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
-        var mi_version = '8.10.0';
-        var mi_track_user = true;
-        var mi_no_track_reason = '';
-        var disableStrs = [
-            'ga-disable-UA-117941251-2',
-        ];
-        /* Function to detect opted out users */
-        function __gtagTrackerIsOptedOut() {
-            for (var index = 0; index < disableStrs.length; index++) {
-                if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
-                    return true;
-                }
-            }
-            return false;
-        }
-        /* Disable tracking if the opt-out cookie exists. */
-        if (__gtagTrackerIsOptedOut()) {
-            for (var index = 0; index < disableStrs.length; index++) {
-                window[disableStrs[index]] = true;
-            }
-        }
-        /* Opt-out function */
-        function __gtagTrackerOptout() {
-            for (var index = 0; index < disableStrs.length; index++) {
-                document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-                window[disableStrs[index]] = true;
-            }
-        }
-        if ('undefined' === typeof gaOptout) {
-            function gaOptout() {
-                __gtagTrackerOptout();
-            }
-        }
-        window.dataLayer = window.dataLayer || [];
-        window.MonsterInsightsDualTracker = {
-            helpers: {},
-            trackers: {},
-        };
-        if (mi_track_user) {
-            function __gtagDataLayer() {
-                dataLayer.push(arguments);
-            }
-            function __gtagTracker(type, name, parameters) {
-                if (!parameters) {
-                    parameters = {};
-                }
-                if (parameters.send_to) {
-                    __gtagDataLayer.apply(null, arguments);
-                    return;
-                }
-                if (type === 'event') {
-                    parameters.send_to = monsterinsights_frontend.ua;
-                    __gtagDataLayer(type, name, parameters);
-                } else {
-                    __gtagDataLayer.apply(null, arguments);
-                }
-            }
-            __gtagTracker('js', new Date());
-            __gtagTracker('set', {
-                'developer_id.dZGIzZG': true,
-            });
-            __gtagTracker('config', 'UA-117941251-2', {"forceSSL":"true"} );
-            window.gtag = __gtagTracker;										(function () {
-                /* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-                /* ga and __gaTracker compatibility shim. */
-                var noopfn = function () {
-                    return null;
-                };
-                var newtracker = function () {
-                    return new Tracker();
-                };
-                var Tracker = function () {
-                    return null;
-                };
-                var p = Tracker.prototype;
-                p.get = noopfn;
-                p.set = noopfn;
-                p.send = function () {
-                    var args = Array.prototype.slice.call(arguments);
-                    args.unshift('send');
-                    __gaTracker.apply(null, args);
-                };
-                var __gaTracker = function () {
-                    var len = arguments.length;
-                    if (len === 0) {
-                        return;
-                    }
-                    var f = arguments[len - 1];
-                    if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
-                        if ('send' === arguments[0]) {
-                            var hitConverted, hitObject = false, action;
-                            if ('event' === arguments[1]) {
-                                if ('undefined' !== typeof arguments[3]) {
-                                    hitObject = {
-                                        'eventAction': arguments[3],
-                                        'eventCategory': arguments[2],
-                                        'eventLabel': arguments[4],
-                                        'value': arguments[5] ? arguments[5] : 1,
-                                    }
-                                }
-                            }
-                            if ('pageview' === arguments[1]) {
-                                if ('undefined' !== typeof arguments[2]) {
-                                    hitObject = {
-                                        'eventAction': 'page_view',
-                                        'page_path': arguments[2],
-                                    }
-                                }
-                            }
-                            if (typeof arguments[2] === 'object') {
-                                hitObject = arguments[2];
-                            }
-                            if (typeof arguments[5] === 'object') {
-                                Object.assign(hitObject, arguments[5]);
-                            }
-                            if ('undefined' !== typeof arguments[1].hitType) {
-                                hitObject = arguments[1];
-                                if ('pageview' === hitObject.hitType) {
-                                    hitObject.eventAction = 'page_view';
-                                }
-                            }
-                            if (hitObject) {
-                                action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-                                hitConverted = mapArgs(hitObject);
-                                __gtagTracker('event', action, hitConverted);
-                            }
-                        }
-                        return;
-                    }
-                    function mapArgs(args) {
-                        var arg, hit = {};
-                        var gaMap = {
-                            'eventCategory': 'event_category',
-                            'eventAction': 'event_action',
-                            'eventLabel': 'event_label',
-                            'eventValue': 'event_value',
-                            'nonInteraction': 'non_interaction',
-                            'timingCategory': 'event_category',
-                            'timingVar': 'name',
-                            'timingValue': 'value',
-                            'timingLabel': 'event_label',
-                            'page': 'page_path',
-                            'location': 'page_location',
-                            'title': 'page_title',
-                        };
-                        for (arg in args) {
-                            if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
-                                hit[gaMap[arg]] = args[arg];
-                            } else {
-                                hit[arg] = args[arg];
-                            }
-                        }
-                        return hit;
-                    }
-                    try {
-                        f.hitCallback();
-                    } catch (ex) {
-                    }
-                };
-                __gaTracker.create = newtracker;
-                __gaTracker.getByName = newtracker;
-                __gaTracker.getAll = function () {
-                    return [];
-                };
-                __gaTracker.remove = noopfn;
-                __gaTracker.loaded = true;
-                window['__gaTracker'] = __gaTracker;
-            })();
-        } else {
-            console.log("");
-            (function () {
-                function __gtagTracker() {
-                    return null;
-                }
-                window['__gtagTracker'] = __gtagTracker;
-                window['gtag'] = __gtagTracker;
-            })();
-        }
-    </script>
-    <!-- / Google Analytics by MonsterInsights -->
     <script type="text/javascript">
         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dssolution.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
         !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -243,7 +59,7 @@
         }
     </style>
     <!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://www.dssolution.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/durwzojs/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/durwzojs/fwr77.css" media="all"/>
     <style id='wp-block-library-theme-inline-css' type='text/css'>
         #start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
     </style>
@@ -252,7 +68,7 @@
     <!-- <link rel='stylesheet' id='dashicons-css'  href='https://www.dssolution.vn/wp-includes/css/dashicons.min.css?ver=5.8.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='dae-fa-css'  href='https://www.dssolution.vn/wp-content/plugins/download-after-email/css/all.css?ver=5.8.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='rt-tpg-css'  href='https://www.dssolution.vn/wp-content/plugins/the-post-grid/assets/css/thepostgrid.css?ver=3.1.2' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/mast6mj6/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/mast6mj6/fwr77.css" media="all"/>
     <style id='rt-tpg-inline-css' type='text/css'>
         .rt-tpg-container .rt-equal-height {
             margin-bottom: 40px;
@@ -296,17 +112,17 @@
     <!-- <link rel='stylesheet' id='757af7c55-css'  href='https://www.dssolution.vn/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1675251091' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-frontend-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/f3krvvau/fwr78.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/f3krvvau/fwr78.css" media="all"/>
     <link rel='stylesheet' id='elementor-post-250-css'  href='https://www.dssolution.vn/wp-content/uploads/elementor/css/post-250.css?ver=1673282662' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='font-awesome-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='simple-line-icons-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='magnific-popup-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='slick-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='oceanwp-style-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/style.min.css?ver=2.1.1' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1yqzmwbc/fwr77.css" media="all"/>
-    <link rel='stylesheet' id='oceanwp-google-font-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;display=swap&amp;ver=5.8.3' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1yqzmwbc/fwr77.css" media="all"/>
+    <link rel='stylesheet' id='oceanwp-google-font-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;display=swap&amp;ver=5.8.3' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='elementor-icons-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6vtq05i6/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6vtq05i6/fwr77.css" media="all"/>
     <style id='elementor-icons-inline-css' type='text/css'>
         .elementor-add-new-section .elementor-add-templately-promo-button{
             background-color: #5d4fff;
@@ -323,35 +139,21 @@
     <!-- <link rel='stylesheet' id='font-awesome-5-all-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.0.1' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.0.1' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-global-css'  href='https://www.dssolution.vn/wp-content/uploads/elementor/css/global.css?ver=1641793944' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jg4pi51/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jg4pi51/fwr77.css" media="all"/>
     <link rel='stylesheet' id='elementor-post-10484-css'  href='https://www.dssolution.vn/wp-content/uploads/elementor/css/post-10484.css?ver=1670580508' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='oe-widgets-style-css'  href='https://www.dssolution.vn/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.8.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jtukjr1/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jtukjr1/fwr77.css" media="all"/>
     <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;subset=vietnamese&amp;ver=5.8.3' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/lz2j7er5/fx3ka.css" media="all"/>
-    <!--n2css--><script src='http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/k0ghcl05/fwr77.js' type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/lz2j7er5/fx3ka.css" media="all"/>
+    <!--n2css--><script src='https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/k0ghcl05/fwr77.js' type="text/javascript"></script>
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.10.0' id='monsterinsights-frontend-script-js'></script> -->
-    <script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
-        var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.dssolution.vn","hash_tracking":"false","ua":"UA-117941251-2","v4_id":""};/* ]]> */
-    </script>
-    <script src='http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/e6kxqzsg/fwr77.js' type="text/javascript"></script>
+    <script src='https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/e6kxqzsg/fwr77.js' type="text/javascript"></script>
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script> -->
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
-    <!-- Google Analytics snippet added by Site Kit -->
-    <script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-216664907-1' id='google_gtagjs-js' async></script>
-    <script type='text/javascript' id='google_gtagjs-js-after'>
-        window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
-        gtag('set', 'linker', {"domains":["www.dssolution.vn"]} );
-        gtag("js", new Date());
-        gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "UA-216664907-1", {"anonymize_ip":true});
-        gtag("config", "G-D9HDWZK5D1");
-    </script>
-    <!-- End Google Analytics snippet added by Site Kit -->
-    <script src='http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/2qdz5n9z/fwr77.js' type="text/javascript"></script>
+    <script src='https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/2qdz5n9z/fwr77.js' type="text/javascript"></script>
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=5.0.1' id='font-awesome-4-shim-js'></script> -->
     <link rel="https://api.w.org/" href="https://www.dssolution.vn/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dssolution.vn/wp-json/wp/v2/pages/10484" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dssolution.vn/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dssolution.vn/wp-includes/wlwmanifest.xml" />
@@ -359,10 +161,10 @@
     <link rel="alternate" type="application/json+oembed" href="https://www.dssolution.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dssolution.vn%2Fvi%2Fve-ds-solution-vietnam%2F" />
     <meta name="generator" content="Site Kit by Google 1.48.1" /><style id="mystickymenu" type="text/css">#mysticky-nav { width:100%; position: static; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99990; -webkit-transition: 0.1s; -moz-transition: 0.1s; -o-transition: 0.1s; transition: 0.1s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; filter: alpha(opacity=80); opacity:0.8; background-color: #1e73be;}#mysticky-nav.wrapfixed .myfixed{ background-color: #1e73be; position: relative;top: auto;left: auto;right: auto;}#mysticky-nav.wrapfixed { background: #00255e !important;} #mysticky-nav.wrapfixed.up { } #mysticky-nav.wrapfixed.down { } #mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:#00255e; max-width:100%; border-bottom: 1px;}</style>			<style type="text/css">
     </style>
-    <link rel="icon" href="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" sizes="32x32" />
-    <link rel="icon" href="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" />
-    <meta name="msapplication-TileImage" content="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-270x270.png" />
     <style type="text/css" id="wp-custom-css">
         #footer-widgets{padding:0 !important;background-color:#060426 !important}.elementor-250 .elementor-element.elementor-element-2c79edf0 .elementor-social-icon{padding:5px;font-size:15px}.wpcf7-form-control.wpcf7-submit{background-color:#FF8B00;padding:15px 30px;font-size:15px;border-radius:5px}a:link{ color:blue}#site-header.has-header-media .overlay-header-media{background-color:transparent !important}.current-menu-item a{ color:#ffffff !important}.dropdown-menu ul li a.menu-link{color:#000 !important}.develop-page img{border-radius:10px}.menu-contact-button .menu-link .text-wrap{text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#FF8B00;padding:10px;border-radius:5px;font-size:16px;font-weight:600}.td_common_title{text-align:center;margin:0 auto;padding:10px 10px 10px 10px;width:30%;border-width:1px;border-color:#167dd0;border-style:solid;vertical-align:middle;background-color:#0854B3;color:#fff}.td_common_detail{margin:0 auto;padding:10px 10px 10px 10px;width:70%;border-width:1px;border-color:#d0d0d0;border-style:solid;vertical-align:middle;background-color:#ffffff}.ds-text-grayblue{color:#1a237e;font-size:1em}#contentoptin_myModal{padding-top:150px !important}img:hover{pointer-events:none}.elementor-widget-icon-list .elementor-icon-list-item:hover{text-decoration:underline}.rt-tpg-container .layout1 .rt-holder .rt-img-holder{width:300px;height:200px;margin:auto;align-content:center;text-align:center}body{color:black !important}#top-bar-wrap{display:none !important}.page-header{background-image:url("https://www.dssolution.vn/wp-content/uploads/2021/12/スクリーンショット-0003-12-21-21.59.03.png");background-size:cover;height:350px}.page-header-title{display:block;font-size:60px;font-weight:600;margin:0;color:#fff;text-align:center}.single nav.post-navigation .nav-links .title{color:#000 !important}#site-navigation-wrap .dropdown-menu >li >a{font-size:20px}.dropdown-menu ul li a.menu-link{display:block;position:relative;float:none;font-size:15px;font-weight:600;line-height:1.2em;letter-spacing:.6px;padding:12px 15px;text-transform:capitalize}code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:.75em;color:#24292e}.menu-contact-button .menu-link .text-wrap{text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#FF8B00;padding:10px;border-radius:5px;font-size:16px;font-weight:600}.woo-menu-icon,.wcmenucart{display:none}#mysticky-nav.wrapfixed .myfixed{background-color:white !important;box-shadow:0 7px 10px rgb(0 0 0 / 25%)}.elementor-3929 .elementor-element.elementor-element-785a598 .elementor-element-populated .elementor-heading-title{color:#00255e}#rt-tpg-container-889571029 .rt-detail h3{font-size:12px}#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h2,#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h3,#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h4,.rt-tpg-container .layout1 .rt-holder .rt-detail h2,.rt-tpg-container .layout1 .rt-holder .rt-detail h3,.rt-tpg-container .layout1 .rt-holder .rt-detail h4{font-size:15px !important}.rt-tpg-container .layout1 .rt-holder .rt-detail{padding:15px !important}.rt-tpg-container .layout1 .rt-holder .rt-detail .post-content{padding:0 !important}.rt-tpg-container .layout1 .rt-holder .rt-detail .post-tags-links{display:none !important}.single-post .page-header-title{display:block;font-size:60px;font-weight:600;margin:0;color:#333;text-align:center;margin-top:60px}.single-post .trail-items{display:none}.rt-tpg-container .layout1 .rt-holder .rt-detail h2{padding:0;!important}.related-thumb img{min-height:202px}.text_blank h2{color:#000 !important}.contact-style .elementor-icon-list-icon{width:55px;height:55px;border-radius:50%;background-color:#2627295C}.contact-style .elementor-icon-list-icon i{width:55px;height:55px;display:flex;font-size:22px;border-radius:0;color:#fff;align-items:center;justify-content:center}#mysticky-nav.wrapfixed{opacity:1 !important}/* Customize "You may also like" */.related-post-media{display:none}.related-posts{padding-bottom:10px}.custom-underline-component::after{background-color:#ed8b00;content:"";display:block;height:2px;margin:10px 0 0;width:80px}.service-list-container{display:flex;align-items:flex-start;margin-top:30px}.service-list-container img{width:45%;margin-right:80px;height:320px;object-fit:cover;min-width:45%}.service-list-container >div{margin-top:10px;margin-right:40px}.service-list-container >div >a{position:relative;color:black;font-size:30px;font-weight:700;padding-left:10px;white-space:nowrap}.service-list-container >div >a:hover{position:relative;color:#3070C8}.service-list-container >div >a::after{content:"";display:block;position:absolute;top:0;left:-10px;width:6px;height:100%;background-color:#3070C8}.service-list-container >div >div{text-align:justify;margin-top:30px;color:#707070;font-size:14px}.lang-item.menu-item:not(:last-child):after{content:'';width:1px;right:0;height:20px;background:#444;position:absolute;display:block;top:50%;transform:translateY(-50%);margin-top:2px}.current-lang.menu-item >a >span{color:#cccccc}@media (min-width:481px){/* .page-header{height:480px !important}*/.single-post .page-header-title{font-size:50px !important}}.grecaptcha-badge{visibility:hidden}		</style>
     <!-- OceanWP CSS -->
@@ -384,20 +186,7 @@
                     <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
                         <ul id="menu-main_vi" class="main-menu dropdown-menu sf-menu">
                             <li id="menu-item-10488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10474 current_page_item menu-item-10488"><a href="/vi" class="menu-link"><span class="text-wrap">Trang Chủ</span></a></li>
-                            <li id="menu-item-10489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10489"><a href="/google-cloud-platform-vi" class="menu-link"><span class="text-wrap">GCP</span></a></li>
-                            <li id="menu-item-11899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-11899"><a href="/dich-vu-atlassian" class="menu-link"><span class="text-wrap">Atlassian</span></a>
-                                <ul class="sub-menu">
-                                    <li id="menu-item-11901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11901"><a href="/san-pham-atlassian" class="menu-link"><span class="text-wrap">Danh sách sản phẩm Atlassian</span></a></li>
-                                    <li id="menu-item-11902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-11902"><a href="/dich-vu-atlassian" class="menu-link"><span class="text-wrap">Dịch vụ Atlassian</span></a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-11898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11898"><a href="/tu-van-ho-tro-su-dung-atlassian" class="menu-link"><span class="text-wrap">Tư vấn, hỗ trợ sử dụng Atlassian</span></a></li>
-                                            <li id="menu-item-11900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11900"><a href="/phat-trien-tinh-nang-atlassian" class="menu-link"><span class="text-wrap">Phát triển tính năng Atlassian</span></a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
                             <li id="menu-item-10491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10491"><a href="/software-development-vi" class="menu-link"><span class="text-wrap">Phát triển phần mềm</span></a></li>
-                            <li id="menu-item-10492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10492"><a href="/blog-vi" class="menu-link"><span class="text-wrap">Blog</span></a></li>
                             <li id="menu-item-12300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12300"><a href="/about-us" class="menu-link"><span class="text-wrap">Về chúng tôi</span></a></li>
                             <li id="menu-item-10817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10817"><a href="/tuyen-dung" class="menu-link"><span class="text-wrap">Tuyển dụng</span></a></li>
                             <li id="menu-item-10750" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page menu-item-10750"><a href="/contact-vi" class="menu-link"><span class="text-wrap">Liên hệ</span></a></li>
@@ -474,7 +263,7 @@
                                                                     <div class="elementor-element elementor-element-5535161 elementor-widget elementor-widget-text-editor" data-id="5535161" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p>Năm 2018, công ty AZ Soft được thành lập với quyết tâm đưa công nghệ và chất lượng phần mềm Nhật Bản ra toàn thế giới.</p><p>Sau 3 năm phát triển, với quyết tâm mở rộng, nâng cao chất lượng dịch vụ phát triển phần mềm, dịch vụ IT Outsourcing và đem lại cho khách hàng trải nghiệm công nghệ mới, ban lãnh đạo của AZ Soft đã quyết định thành lập Công ty Cổ phần AZ Soft Vietnam có trụ sở tại Tầng 12, Tòa Viwaseen Tower, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội và Công ty Cổ phần AZ Soft tại Nhật Bản.</p><p>Với đội ngũ chuyên gia trên 10 năm kinh nghiệm phát triển phần mềm, cùng đội ngũ nhân lực trẻ nhanh nhạy với công nghệ mới, kể từ khi thành lập, AZ Soft Vietnam đã và đang cung cấp giải pháp gia công phần mềm và tư vấn giải pháp IT, giải pháp cloud cho trên 20 doanh nghiệp thuộc 8 quốc gia trong hơn 40 dự án phát triển phần mềm.</p><p>Nếu bạn đang tìm kiếm giải pháp:</p><ul><li>Phát triển phần mềm hiệu quả với chi phí tối ưu.</li><li>Áp dụng công nghệ ngoài lĩnh vực chuyên môn mà không phải lên kế hoạch thuê chuyên gia.</li><li>Phát triển các tính năng bổ sung, plugin mới trên Jira, Confluence hoặc Atlassian Marketplace.</li><li>Xây dựng kiến trúc điện toán đám mây linh hoạt, scale đơn giản cho hệ thống của bạn.</li><li>Lựa chọn nền tảng điện toán đám mây tối ưu với hệ thống hiện có.</li><li>Chuyển đổi dữ liệu sang hệ thống mới&#8230;</li></ul><p>Hãy tập trung vào business và để AZ Soft Vietnam giúp bạn hiện thực hóa ý tưởng của bạn.</p>					</div>
+                                                                                <p>Năm 2016, AZ Soft được thành lập với quyết tâm đưa công nghệ và phần mềm chất lượng cao ra toàn thế giới.</p><p>Với đội ngũ chuyên gia trên 10 năm kinh nghiệm phát triển phần mềm, cùng đội ngũ nhân lực trẻ nhanh nhạy với công nghệ mới, kể từ khi thành lập, AZ Soft đã và đang cung cấp giải pháp gia công phần mềm và tư vấn giải pháp IT, giải pháp cloud cho trên 20 doanh nghiệp thuộc 8 quốc gia trong hơn 40 dự án phát triển phần mềm.</p><p>Nếu bạn đang tìm kiếm giải pháp:</p><ul><li>Phát triển phần mềm hiệu quả với chi phí tối ưu.</li><li>Áp dụng công nghệ ngoài lĩnh vực chuyên môn mà không phải lên kế hoạch thuê chuyên gia.</li><li>Phát triển các tính năng bổ sung, module mới trên phầm mềm sẵn có.</li><li>Xây dựng kiến trúc điện toán đám mây linh hoạt, scale đơn giản cho hệ thống của bạn.</li><li>Lựa chọn nền tảng điện toán đám mây tối ưu với hệ thống hiện có.</li><li>Chuyển đổi dữ liệu sang hệ thống mới&#8230;</li></ul><p>Hãy tập trung vào business và để AZ Soft giúp bạn hiện thực hóa ý tưởng của bạn.</p>					</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -496,7 +285,7 @@
                                                                     <div class="elementor-element elementor-element-b58292c elementor-widget elementor-widget-text-editor" data-id="b58292c" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p><strong>DSS Vietnam là một nhóm phát triển hệ thống CNTT chuyên nghiệp có thế mạnh về Atlassian, điện toán đám mây và devops. <br /></strong></p><p><strong>Với những thế mạnh ấy, DSS Vietnam vận dụng phương thức phát triển phần mềm agile đảm bảo đem tới cho khách hàng giải pháp phát triển &#8211; phân phối liên tục (continuous delivery).</strong></p><p>Chúng tôi cung cấp các dịch vụ dưới đây.</p>					</div>
+                                                                                <p><strong>AZ Soft là một nhóm phát triển hệ thống CNTT chuyên nghiệp có thế mạnh về chuyển đổi số, điện toán đám mây và devops. <br /></strong></p><p><strong>Với những thế mạnh ấy, chúng tôi vận dụng phương thức phát triển phần mềm agile đảm bảo đem tới cho khách hàng giải pháp phát triển &#8211; phân phối liên tục (continuous delivery).</strong></p><p>Chúng tôi cung cấp các dịch vụ dưới đây.</p>					</div>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-c64a0f1 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c64a0f1" data-element_type="widget" data-widget_type="icon-list.default">
@@ -513,7 +302,7 @@
                                                                                     <a href="../atlassian-vi/index.html" target="_blank">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fab fa-atlassian"></i>						</span>
-                                                                                        <span class="elementor-icon-list-text">Giải pháp tự động hóa, quy trình phát triển phần mềm, quy trình kinh doanh; phát triển plugin & hệ sinh thái Atlassian.</span>
+                                                                                        <span class="elementor-icon-list-text">Giải pháp tự động hóa, quy trình phát triển phần mềm, quy trình kinh doanh.</span>
                                                                                     </a>
                                                                                 </li>
                                                                                 <li class="elementor-icon-list-item">
@@ -545,7 +334,7 @@
                                                                     <div class="elementor-element elementor-element-11da71c elementor-widget elementor-widget-text-editor" data-id="11da71c" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <p>AZ Soft Vietnam có đội ngũ chuyên gia được chứng nhận bởi Google Cloud và Atlassian. Chúng tôi sử dụng các công cụ tự động hóa quá trình phát triển phần mềm, quy trình nghiệp vụ của Google Cloud Platform, Atlassian trong phát triển hệ thống. Đồng thời, cung cấp dịch vụ tư vấn, cung cấp, hướng dẫn sử dụng đối với các công cụ này.</p>					</div>
+                                                                                <p>AZ Soft có đội ngũ chuyên gia chất lượng cao với nhiều năm kinh nghiệm. Chúng tôi sử dụng các công cụ tự động hóa quá trình phát triển phần mềm, quy trình nghiệp vụ của Google Cloud Platform, AWS trong phát triển hệ thống. Đồng thời, cung cấp dịch vụ tư vấn, cung cấp, hướng dẫn sử dụng đối với các công cụ này.</p>					</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -580,7 +369,7 @@
                                                                     <div class="elementor-element elementor-element-3e62953 elementor-drop-cap-yes elementor-drop-cap-view-default elementor-widget elementor-widget-text-editor" data-id="3e62953" data-element_type="widget" data-settings="{&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                                <div style="color: black;"><table class="table_common"><tbody><tr><td class="td_common_title">Tên công ty</td><td class="td_common_detail">Công ty Cổ phần AZ Soft Vietnam</td></tr><tr><td class="td_common_title">Tên viết tắt</td><td class="td_common_detail">AZ Soft Vietnam ., JSC (DSS Vietnam)</td></tr><tr><td class="td_common_title">Ngày thành lập</td><td class="td_common_detail">23/12/2021</td></tr><tr><td class="td_common_title">Vốn điều lệ</td><td class="td_common_detail">3,000,000,000円</td></tr><tr><td class="td_common_title">Địa chỉ</td><td class="td_common_detail">Tầng 12, tòa Viwaseen, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội, Việt Nam.</td></tr><tr><td class="td_common_title">E-Mail</td><td class="td_common_detail">info@azsoft.vn</td></tr><tr><td class="td_common_title">URL</td><td class="td_common_detail"><a href="https://www.dssolution.vn/">https://www.dssolution.vn</a></td></tr></tbody></table></div>					</div>
+                                                                                <div style="color: black;"><table class="table_common"><tbody><tr><td class="td_common_title">Tên công ty</td><td class="td_common_detail">CÔNG TY CỔ PHẦN SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ AZPRO</td></tr><tr><td class="td_common_title">Tên viết tắt</td><td class="td_common_detail">AZPRO JSC (AZ Soft)</td></tr><tr><td class="td_common_title">Ngày thành lập</td><td class="td_common_detail">01/04/2016</td></tr><tr><td class="td_common_title">Vốn điều lệ</td><td class="td_common_detail">1,900,000,000 VND</td></tr><tr><td class="td_common_title">Địa chỉ</td><td class="td_common_detail">S2.08 Vinhomes Ocean Park, Đa Tốn, Gia Lâm, Hà Nội, Việt Nam.</td></tr><tr><td class="td_common_title">E-Mail</td><td class="td_common_detail">info@az-soft.vn</td></tr><tr><td class="td_common_title">URL</td><td class="td_common_detail"><a href="https://www.dssolution.vn/">https://az-soft.vn</a></td></tr></tbody></table></div>					</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -615,10 +404,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-9bee999 elementor-widget elementor-widget-image" data-id="9bee999" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-image">
-                                                                        <a href="https://partnerdirectory.atlassian.com/" target="_blank">
-                                                                            <img width="1024" height="81" src="https://www.dssolution.vn/wp-content/uploads/2022/09/Atlassian-Partner@2x-white-rgb.png" class="attachment-large size-large" alt="" loading="lazy" />								</a>
-                                                                    </div>
+                                                                    
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-4f7f55f6 elementor-widget elementor-widget-heading" data-id="4f7f55f6" data-element_type="widget" data-widget_type="heading.default">
@@ -632,25 +418,6 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-8430210 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="8430210" data-element_type="widget" data-widget_type="social-icons.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-social-icons-wrapper elementor-grid">
-<span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-7db2979" href="https://www.facebook.com/profile.php?id=100077702830890" target="_blank">
-<span class="elementor-screen-only">Facebook</span>
-<i class="fab fa-facebook"></i>					</a>
-</span>
-                                                                        <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-3d58a58" href="https://www.youtube.com/@dssolutionvietnam" target="_blank">
-<span class="elementor-screen-only">Youtube</span>
-<i class="fab fa-youtube"></i>					</a>
-</span>
-                                                                        <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-b57132d" href="https://www.linkedin.com/company/ds-solution-vietnam-jsc/" target="_blank">
-<span class="elementor-screen-only">Linkedin</span>
-<i class="fab fa-linkedin"></i>					</a>
-</span>
-                                                                    </div>
-                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -674,52 +441,11 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="/gcp" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Dịch vụ GCP</span>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li class="elementor-icon-list-item">
-                                                                            <a href="/dich-vu-atlassian" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Giải pháp & Dịch vụ Atlassian</span>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li class="elementor-icon-list-item">
                                                                             <a href="/software-development" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Dịch vụ Phát triển phần mềm</span>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-0cdfa08 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0cdfa08" data-element_type="widget" data-widget_type="divider.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-4048b7c4 elementor-widget elementor-widget-heading" data-id="4048b7c4" data-element_type="widget" data-widget_type="heading.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <h3 class="elementor-heading-title elementor-size-large">Resources</h3>		</div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-33ac894 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="33ac894" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <ul class="elementor-icon-list-items">
-                                                                        <li class="elementor-icon-list-item">
-                                                                            <a href="../blog-vi/index.html" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Blog</span>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-0bd6cd7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0bd6cd7" data-element_type="widget" data-widget_type="divider.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-                                                                    </div>
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-7c2085bb elementor-widget elementor-widget-heading" data-id="7c2085bb" data-element_type="widget" data-widget_type="heading.default">
@@ -767,16 +493,6 @@
 </span>
                                                                     </div>
                                                                 </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6e092a35" data-id="6e092a35" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div class="elementor-element elementor-element-2d7e95e9 elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="2d7e95e9" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <h5>Follow us</h5><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#ffffff" data-tweet-limit="1" data-lang="VI" data-chrome="noheader nofooter transparent" href="https://www.facebook.com/CTAZ Soft"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>My Tweets</a>		</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -867,22 +583,6 @@
                                                     <div class="elementor-column-wrap elementor-element-populated">
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-13989f66 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="13989f66" data-element_type="widget" data-widget_type="social-icons.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-social-icons-wrapper elementor-grid">
-<span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-0s01r1l" href="https://twitter.com/it_devsamurai" target="_blank">
-<span class="elementor-screen-only">Twitter</span>
-<i class="fa fa-twitter"></i>
-</a>
-</span>
-                                                                        <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f493b5f" href="https://www.facebook.com/itdevsamurai/" target="_blank">
-<span class="elementor-screen-only">Facebook</span>
-<i class="fa fa-facebook"></i>
-</a>
-</span>
-                                                                    </div>
-                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -906,7 +606,7 @@
     </a>
 </div>
 <!-- <link rel='stylesheet' id='e-animations-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.3' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1bb5gzdh/fwr77.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1bb5gzdh/fwr77.css" media="all"/>
 <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
 <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
