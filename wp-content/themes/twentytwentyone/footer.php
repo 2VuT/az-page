@@ -77,16 +77,6 @@
                                                         <div class="elementor-widget-container">
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="google-cloud-platform-vi/index.html" target="_blank">
-                                                                        <span class="elementor-icon-list-text">・Dịch vụ GCP</span>
-                                                                    </a>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <a href="dich-vu-atlassian/index.html" target="_blank">
-                                                                        <span class="elementor-icon-list-text">・Giải pháp & Dịch vụ Atlassian</span>
-                                                                    </a>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
                                                                     <a href="software-development-vi/index.html" target="_blank">
                                                                         <span class="elementor-icon-list-text">・Dịch vụ Phát triển phần mềm</span>
                                                                     </a>
@@ -94,36 +84,6 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <div class="elementor-element elementor-element-0cdfa08 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0cdfa08" data-element_type="widget" data-widget_type="divider.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-4048b7c4 elementor-widget elementor-widget-heading" data-id="4048b7c4" data-element_type="widget" data-widget_type="heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <h3 class="elementor-heading-title elementor-size-large">Resources</h3>		</div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-33ac894 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="33ac894" data-element_type="widget" data-widget_type="icon-list.default">
-                                                        <div class="elementor-widget-container">
-                                                            <ul class="elementor-icon-list-items">
-                                                                <li class="elementor-icon-list-item">
-                                                                    <a href="blog-vi/index.html" target="_blank">
-                                                                        <span class="elementor-icon-list-text">・Blog</span>
-                                                                    </a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-0bd6cd7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0bd6cd7" data-element_type="widget" data-widget_type="divider.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-7c2085bb elementor-widget elementor-widget-heading" data-id="7c2085bb" data-element_type="widget" data-widget_type="heading.default">
                                                         <div class="elementor-widget-container">

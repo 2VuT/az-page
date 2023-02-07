@@ -34,15 +34,15 @@
     <meta name="twitter:site" content="@it_devsamurai" />
     <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.dssolution.vn/en/#organization","name":"DevSamurai","url":"https://www.dssolution.vn/en/","sameAs":["https://www.facebook.com/itdevsamurai/","https://twitter.com/it_devsamurai"],"logo":{"@type":"ImageObject","@id":"https://www.dssolution.vn/en/#logo","inLanguage":"en-US","url":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","contentUrl":"https://www.dssolution.jp/wp-content/uploads/2018/04/logo_with_text.png","width":1438,"height":200,"caption":"DevSamurai"},"image":{"@id":"https://www.dssolution.vn/en/#logo"}},{"@type":"WebSite","@id":"https://www.dssolution.vn/en/#website","url":"https://www.dssolution.vn/en/","name":"AZ Soft Vietnam","description":"IT services provider","publisher":{"@id":"https://www.dssolution.vn/en/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dssolution.vn/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.dssolution.vn/en/software-development-en/#primaryimage","inLanguage":"en-US","url":"https://www.dssolution.vn/wp-content/uploads/2018/03/ApplicationDevelopment.jpg","contentUrl":"https://www.dssolution.vn/wp-content/uploads/2018/03/ApplicationDevelopment.jpg","width":900,"height":550},{"@type":"WebPage","@id":"https://www.dssolution.vn/en/software-development-en/#webpage","url":"https://www.dssolution.vn/en/software-development-en/","name":"Software Development Services | AZ Soft Vietnam","isPartOf":{"@id":"https://www.dssolution.vn/en/#website"},"primaryImageOfPage":{"@id":"https://www.dssolution.vn/en/software-development-en/#primaryimage"},"datePublished":"2019-08-05T13:23:54+00:00","dateModified":"2022-12-09T10:12:43+00:00","description":"IT Outsourcing services: Design and implement web apps, mobile apps, IoT applications, enterprise systems and Cloud solutions at a reasonable price.","breadcrumb":{"@id":"https://www.dssolution.vn/en/software-development-en/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dssolution.vn/en/software-development-en/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dssolution.vn/en/software-development-en/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dssolution.vn/en/"},{"@type":"ListItem","position":2,"name":"4.Software Development EN"}]}]}</script>
     <!-- / Yoast SEO plugin. -->
-    <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
-    <link rel='dns-prefetch' href='http://www.google.com/' />
-    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <link rel='dns-prefetch' href='https://www.googletagmanager.com/' />
+    <link rel='dns-prefetch' href='https://www.google.com/' />
+    <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='https://s.w.org/' />
     <link rel="alternate" type="application/rss+xml" title="AZ Soft Vietnam &raquo; Feed" href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="AZ Soft Vietnam &raquo; Comments Feed" href="../comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script
-            src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+            src="https://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
     <script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
         var mi_version = '8.10.0';
         var mi_track_user = true;
@@ -106,7 +106,7 @@
                 'developer_id.dZGIzZG': true,
             });
             __gtagTracker('config', 'UA-117941251-2', {"forceSSL":"true"} );
-            window.gtag = __gtagTracker;										(function () {
+            window.gtag = __gtagTracker;                                        (function () {
                 /* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
                 /* ga and __gaTracker compatibility shim. */
                 var noopfn = function () {
@@ -243,7 +243,7 @@
         }
     </style>
     <!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://www.dssolution.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/durwzojs/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/durwzojs/fwr77.css" media="all"/>
     <style id='wp-block-library-theme-inline-css' type='text/css'>
         #start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
     </style>
@@ -252,7 +252,7 @@
     <!-- <link rel='stylesheet' id='dashicons-css'  href='https://www.dssolution.vn/wp-includes/css/dashicons.min.css?ver=5.8.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='dae-fa-css'  href='https://www.dssolution.vn/wp-content/plugins/download-after-email/css/all.css?ver=5.8.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='rt-tpg-css'  href='https://www.dssolution.vn/wp-content/plugins/the-post-grid/assets/css/thepostgrid.css?ver=3.1.2' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/mast6mj6/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/mast6mj6/fwr77.css" media="all"/>
     <style id='rt-tpg-inline-css' type='text/css'>
         .rt-tpg-container .rt-equal-height {
             margin-bottom: 40px;
@@ -296,17 +296,17 @@
     <!-- <link rel='stylesheet' id='5bf102159-css'  href='https://www.dssolution.vn/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1675252731' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-frontend-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/f3krvvau/fwr78.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/f3krvvau/fwr78.css" media="all"/>
     <link rel='stylesheet' id='elementor-post-250-css'  href='https://www.dssolution.vn/wp-content/uploads/elementor/css/post-250.css?ver=1673282662' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='font-awesome-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='simple-line-icons-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='magnific-popup-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='slick-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='oceanwp-style-css'  href='https://www.dssolution.vn/wp-content/themes/oceanwp/assets/css/style.min.css?ver=2.1.1' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1yqzmwbc/fwr77.css" media="all"/>
-    <link rel='stylesheet' id='oceanwp-google-font-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;display=swap&amp;ver=5.8.3' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1yqzmwbc/fwr77.css" media="all"/>
+    <link rel='stylesheet' id='oceanwp-google-font-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;display=swap&amp;ver=5.8.3' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='elementor-icons-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6vtq05i6/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6vtq05i6/fwr77.css" media="all"/>
     <style id='elementor-icons-inline-css' type='text/css'>
         .elementor-add-new-section .elementor-add-templately-promo-button{
             background-color: #5d4fff;
@@ -323,21 +323,21 @@
     <!-- <link rel='stylesheet' id='font-awesome-5-all-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.0.1' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.0.1' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-global-css'  href='https://www.dssolution.vn/wp-content/uploads/elementor/css/global.css?ver=1641793944' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jg4pi51/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jg4pi51/fwr77.css" media="all"/>
     <link rel='stylesheet' id='elementor-post-5699-css'  href='https://www.dssolution.vn/wp-content/uploads/elementor/css/post-5699.css?ver=1670580764' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='oe-widgets-style-css'  href='https://www.dssolution.vn/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.8.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jtukjr1/fwr77.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/6jtukjr1/fwr77.css" media="all"/>
     <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.3' type='text/css' media='all' />
     <!-- <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' /> -->
     <!-- <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' /> -->
-    <link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/lz2j7er5/fx3ka.css" media="all"/>
-    <!--n2css--><script src='http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/k0ghcl05/fwr77.js' type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/lz2j7er5/fx3ka.css" media="all"/>
+    <!--n2css--><script src='https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/k0ghcl05/fwr77.js' type="text/javascript"></script>
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.10.0' id='monsterinsights-frontend-script-js'></script> -->
     <script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
         var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.dssolution.vn","hash_tracking":"false","ua":"UA-117941251-2","v4_id":""};/* ]]> */
     </script>
-    <script src='http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/e6kxqzsg/fwr77.js' type="text/javascript"></script>
+    <script src='https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/e6kxqzsg/fwr77.js' type="text/javascript"></script>
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script> -->
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
     <!-- Google Analytics snippet added by Site Kit -->
@@ -351,20 +351,20 @@
         gtag("config", "G-D9HDWZK5D1");
     </script>
     <!-- End Google Analytics snippet added by Site Kit -->
-    <script src='http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/2qdz5n9z/fwr77.js' type="text/javascript"></script>
+    <script src='https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/2qdz5n9z/fwr77.js' type="text/javascript"></script>
     <!-- <script type='text/javascript' src='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=5.0.1' id='font-awesome-4-shim-js'></script> -->
     <link rel="https://api.w.org/" href="https://www.dssolution.vn/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dssolution.vn/wp-json/wp/v2/pages/5699" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dssolution.vn/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dssolution.vn/wp-includes/wlwmanifest.xml" />
     <link rel='shortlink' href='https://www.dssolution.vn/?p=5699' />
     <link rel="alternate" type="application/json+oembed" href="https://www.dssolution.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dssolution.vn%2Fen%2Fsoftware-development-en%2F" />
-    <meta name="generator" content="Site Kit by Google 1.48.1" /><style id="mystickymenu" type="text/css">#mysticky-nav { width:100%; position: static; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99990; -webkit-transition: 0.1s; -moz-transition: 0.1s; -o-transition: 0.1s; transition: 0.1s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; filter: alpha(opacity=80); opacity:0.8; background-color: #1e73be;}#mysticky-nav.wrapfixed .myfixed{ background-color: #1e73be; position: relative;top: auto;left: auto;right: auto;}#mysticky-nav.wrapfixed { background: #00255e !important;} #mysticky-nav.wrapfixed.up { } #mysticky-nav.wrapfixed.down { } #mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:#00255e; max-width:100%; border-bottom: 1px;}</style>			<style type="text/css">
+    <meta name="generator" content="Site Kit by Google 1.48.1" /><style id="mystickymenu" type="text/css">#mysticky-nav { width:100%; position: static; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99990; -webkit-transition: 0.1s; -moz-transition: 0.1s; -o-transition: 0.1s; transition: 0.1s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; filter: alpha(opacity=80); opacity:0.8; background-color: #1e73be;}#mysticky-nav.wrapfixed .myfixed{ background-color: #1e73be; position: relative;top: auto;left: auto;right: auto;}#mysticky-nav.wrapfixed { background: #00255e !important;} #mysticky-nav.wrapfixed.up { } #mysticky-nav.wrapfixed.down { } #mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:#00255e; max-width:100%; border-bottom: 1px;}</style>           <style type="text/css">
     </style>
-    <link rel="icon" href="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" sizes="32x32" />
-    <link rel="icon" href="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" />
-    <meta name="msapplication-TileImage" content="https://www.dssolution.vn/wp-content/uploads/2022/01/dss_logo_only_dark.png" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-270x270.png" />
     <style type="text/css" id="wp-custom-css">
-        #footer-widgets{padding:0 !important;background-color:#060426 !important}.elementor-250 .elementor-element.elementor-element-2c79edf0 .elementor-social-icon{padding:5px;font-size:15px}.wpcf7-form-control.wpcf7-submit{background-color:#FF8B00;padding:15px 30px;font-size:15px;border-radius:5px}a:link{ color:blue}#site-header.has-header-media .overlay-header-media{background-color:transparent !important}.current-menu-item a{ color:#ffffff !important}.dropdown-menu ul li a.menu-link{color:#000 !important}.develop-page img{border-radius:10px}.menu-contact-button .menu-link .text-wrap{text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#FF8B00;padding:10px;border-radius:5px;font-size:16px;font-weight:600}.td_common_title{text-align:center;margin:0 auto;padding:10px 10px 10px 10px;width:30%;border-width:1px;border-color:#167dd0;border-style:solid;vertical-align:middle;background-color:#0854B3;color:#fff}.td_common_detail{margin:0 auto;padding:10px 10px 10px 10px;width:70%;border-width:1px;border-color:#d0d0d0;border-style:solid;vertical-align:middle;background-color:#ffffff}.ds-text-grayblue{color:#1a237e;font-size:1em}#contentoptin_myModal{padding-top:150px !important}img:hover{pointer-events:none}.elementor-widget-icon-list .elementor-icon-list-item:hover{text-decoration:underline}.rt-tpg-container .layout1 .rt-holder .rt-img-holder{width:300px;height:200px;margin:auto;align-content:center;text-align:center}body{color:black !important}#top-bar-wrap{display:none !important}.page-header{background-image:url("https://www.dssolution.vn/wp-content/uploads/2021/12/スクリーンショット-0003-12-21-21.59.03.png");background-size:cover;height:350px}.page-header-title{display:block;font-size:60px;font-weight:600;margin:0;color:#fff;text-align:center}.single nav.post-navigation .nav-links .title{color:#000 !important}#site-navigation-wrap .dropdown-menu >li >a{font-size:20px}.dropdown-menu ul li a.menu-link{display:block;position:relative;float:none;font-size:15px;font-weight:600;line-height:1.2em;letter-spacing:.6px;padding:12px 15px;text-transform:capitalize}code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:.75em;color:#24292e}.menu-contact-button .menu-link .text-wrap{text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#FF8B00;padding:10px;border-radius:5px;font-size:16px;font-weight:600}.woo-menu-icon,.wcmenucart{display:none}#mysticky-nav.wrapfixed .myfixed{background-color:white !important;box-shadow:0 7px 10px rgb(0 0 0 / 25%)}.elementor-3929 .elementor-element.elementor-element-785a598 .elementor-element-populated .elementor-heading-title{color:#00255e}#rt-tpg-container-889571029 .rt-detail h3{font-size:12px}#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h2,#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h3,#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h4,.rt-tpg-container .layout1 .rt-holder .rt-detail h2,.rt-tpg-container .layout1 .rt-holder .rt-detail h3,.rt-tpg-container .layout1 .rt-holder .rt-detail h4{font-size:15px !important}.rt-tpg-container .layout1 .rt-holder .rt-detail{padding:15px !important}.rt-tpg-container .layout1 .rt-holder .rt-detail .post-content{padding:0 !important}.rt-tpg-container .layout1 .rt-holder .rt-detail .post-tags-links{display:none !important}.single-post .page-header-title{display:block;font-size:60px;font-weight:600;margin:0;color:#333;text-align:center;margin-top:60px}.single-post .trail-items{display:none}.rt-tpg-container .layout1 .rt-holder .rt-detail h2{padding:0;!important}.related-thumb img{min-height:202px}.text_blank h2{color:#000 !important}.contact-style .elementor-icon-list-icon{width:55px;height:55px;border-radius:50%;background-color:#2627295C}.contact-style .elementor-icon-list-icon i{width:55px;height:55px;display:flex;font-size:22px;border-radius:0;color:#fff;align-items:center;justify-content:center}#mysticky-nav.wrapfixed{opacity:1 !important}/* Customize "You may also like" */.related-post-media{display:none}.related-posts{padding-bottom:10px}.custom-underline-component::after{background-color:#ed8b00;content:"";display:block;height:2px;margin:10px 0 0;width:80px}.service-list-container{display:flex;align-items:flex-start;margin-top:30px}.service-list-container img{width:45%;margin-right:80px;height:320px;object-fit:cover;min-width:45%}.service-list-container >div{margin-top:10px;margin-right:40px}.service-list-container >div >a{position:relative;color:black;font-size:30px;font-weight:700;padding-left:10px;white-space:nowrap}.service-list-container >div >a:hover{position:relative;color:#3070C8}.service-list-container >div >a::after{content:"";display:block;position:absolute;top:0;left:-10px;width:6px;height:100%;background-color:#3070C8}.service-list-container >div >div{text-align:justify;margin-top:30px;color:#707070;font-size:14px}.lang-item.menu-item:not(:last-child):after{content:'';width:1px;right:0;height:20px;background:#444;position:absolute;display:block;top:50%;transform:translateY(-50%);margin-top:2px}.current-lang.menu-item >a >span{color:#cccccc}@media (min-width:481px){/* .page-header{height:480px !important}*/.single-post .page-header-title{font-size:50px !important}}.grecaptcha-badge{visibility:hidden}		</style>
+        #footer-widgets{padding:0 !important;background-color:#060426 !important}.elementor-250 .elementor-element.elementor-element-2c79edf0 .elementor-social-icon{padding:5px;font-size:15px}.wpcf7-form-control.wpcf7-submit{background-color:#FF8B00;padding:15px 30px;font-size:15px;border-radius:5px}a:link{ color:blue}#site-header.has-header-media .overlay-header-media{background-color:transparent !important}.current-menu-item a{ color:#ffffff !important}.dropdown-menu ul li a.menu-link{color:#000 !important}.develop-page img{border-radius:10px}.menu-contact-button .menu-link .text-wrap{text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#FF8B00;padding:10px;border-radius:5px;font-size:16px;font-weight:600}.td_common_title{text-align:center;margin:0 auto;padding:10px 10px 10px 10px;width:30%;border-width:1px;border-color:#167dd0;border-style:solid;vertical-align:middle;background-color:#0854B3;color:#fff}.td_common_detail{margin:0 auto;padding:10px 10px 10px 10px;width:70%;border-width:1px;border-color:#d0d0d0;border-style:solid;vertical-align:middle;background-color:#ffffff}.ds-text-grayblue{color:#1a237e;font-size:1em}#contentoptin_myModal{padding-top:150px !important}img:hover{pointer-events:none}.elementor-widget-icon-list .elementor-icon-list-item:hover{text-decoration:underline}.rt-tpg-container .layout1 .rt-holder .rt-img-holder{width:300px;height:200px;margin:auto;align-content:center;text-align:center}body{color:black !important}#top-bar-wrap{display:none !important}.page-header{background-image:url("https://www.dssolution.vn/wp-content/uploads/2021/12/スクリーンショット-0003-12-21-21.59.03.png");background-size:cover;height:350px}.page-header-title{display:block;font-size:60px;font-weight:600;margin:0;color:#fff;text-align:center}.single nav.post-navigation .nav-links .title{color:#000 !important}#site-navigation-wrap .dropdown-menu >li >a{font-size:20px}.dropdown-menu ul li a.menu-link{display:block;position:relative;float:none;font-size:15px;font-weight:600;line-height:1.2em;letter-spacing:.6px;padding:12px 15px;text-transform:capitalize}code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:.75em;color:#24292e}.menu-contact-button .menu-link .text-wrap{text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#FF8B00;padding:10px;border-radius:5px;font-size:16px;font-weight:600}.woo-menu-icon,.wcmenucart{display:none}#mysticky-nav.wrapfixed .myfixed{background-color:white !important;box-shadow:0 7px 10px rgb(0 0 0 / 25%)}.elementor-3929 .elementor-element.elementor-element-785a598 .elementor-element-populated .elementor-heading-title{color:#00255e}#rt-tpg-container-889571029 .rt-detail h3{font-size:12px}#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h2,#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h3,#poststuff .rt-tpg-container .layout1 .rt-holder .rt-detail h4,.rt-tpg-container .layout1 .rt-holder .rt-detail h2,.rt-tpg-container .layout1 .rt-holder .rt-detail h3,.rt-tpg-container .layout1 .rt-holder .rt-detail h4{font-size:15px !important}.rt-tpg-container .layout1 .rt-holder .rt-detail{padding:15px !important}.rt-tpg-container .layout1 .rt-holder .rt-detail .post-content{padding:0 !important}.rt-tpg-container .layout1 .rt-holder .rt-detail .post-tags-links{display:none !important}.single-post .page-header-title{display:block;font-size:60px;font-weight:600;margin:0;color:#333;text-align:center;margin-top:60px}.single-post .trail-items{display:none}.rt-tpg-container .layout1 .rt-holder .rt-detail h2{padding:0;!important}.related-thumb img{min-height:202px}.text_blank h2{color:#000 !important}.contact-style .elementor-icon-list-icon{width:55px;height:55px;border-radius:50%;background-color:#2627295C}.contact-style .elementor-icon-list-icon i{width:55px;height:55px;display:flex;font-size:22px;border-radius:0;color:#fff;align-items:center;justify-content:center}#mysticky-nav.wrapfixed{opacity:1 !important}/* Customize "You may also like" */.related-post-media{display:none}.related-posts{padding-bottom:10px}.custom-underline-component::after{background-color:#ed8b00;content:"";display:block;height:2px;margin:10px 0 0;width:80px}.service-list-container{display:flex;align-items:flex-start;margin-top:30px}.service-list-container img{width:45%;margin-right:80px;height:320px;object-fit:cover;min-width:45%}.service-list-container >div{margin-top:10px;margin-right:40px}.service-list-container >div >a{position:relative;color:black;font-size:30px;font-weight:700;padding-left:10px;white-space:nowrap}.service-list-container >div >a:hover{position:relative;color:#3070C8}.service-list-container >div >a::after{content:"";display:block;position:absolute;top:0;left:-10px;width:6px;height:100%;background-color:#3070C8}.service-list-container >div >div{text-align:justify;margin-top:30px;color:#707070;font-size:14px}.lang-item.menu-item:not(:last-child):after{content:'';width:1px;right:0;height:20px;background:#444;position:absolute;display:block;top:50%;transform:translateY(-50%);margin-top:2px}.current-lang.menu-item >a >span{color:#cccccc}@media (min-width:481px){/* .page-header{height:480px !important}*/.single-post .page-header-title{font-size:50px !important}}.grecaptcha-badge{visibility:hidden}     </style>
     <!-- OceanWP CSS -->
     <style type="text/css">
         /* General CSS */a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#efefef}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#efefef}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#efefef}.thumbnail:hover .link-post-svg-icon{background-color:#efefef}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#efefef}.widget-title{border-color:#efefef}blockquote{border-color:#efefef}#searchform-dropdown{border-color:#efefef}.dropdown-menu .sub-menu{border-color:#efefef}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#efefef}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#efefef}.social-widget li.oceanwp-email a:hover{border-color:#efefef}#respond #cancel-comment-reply-link:hover{border-color:#efefef}body .contact-info-widget.big-icons li:hover i{border-color:#efefef}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#efefef}blockquote,.wp-block-quote{border-left-color:#efefef}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#efefef}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{color:#ffffff}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:80px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.mobile-menu-close,.after-header-content-inner >a{line-height:80px}#site-header{border-color:#ffffff}#site-header-inner{padding:10px 0 0 0}#site-header.has-header-media .overlay-header-media{background-color:#ffffff}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:180px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:84px}@media (max-width:480px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:43px}}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#00255e}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{color:#00255e}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{text-shadow:10px 0 #00255e,-10px 0 #00255e}#site-navigation-wrap .dropdown-menu >li >a{padding:0 10px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#2b3441}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#2b3441}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#00255e}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#00255e}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#00255e}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{background-color:#ffffff}.dropdown-menu .sub-menu{min-width:300px}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#ffffff}.dropdown-menu ul li a.menu-link{color:#2b3441}.dropdown-menu ul li a.menu-link .owp-icon use{stroke:#2b3441}.dropdown-menu ul li a.menu-link:hover{color:#00255e}.dropdown-menu ul li a.menu-link:hover .owp-icon use{stroke:#00255e}.dropdown-menu ul >.current-menu-item >a.menu-link{color:#00255e}/* Header Image CSS */#site-header{background-image:url(https://www.dssolution.vn/wp-content/uploads/2022/01/DSS-06.png)}/* Footer Widgets CSS */#footer-widgets{background-color:#0d47a1}/* Typography CSS */body{font-family:Open Sans;font-weight:400;font-size:17px}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{font-family:Open Sans;line-height:1.8}h1{font-family:Open Sans;font-size:42px;color:#ffffff;line-height:1.8}h2{font-family:Open Sans;font-weight:700;font-size:40px;color:#000000;line-height:1.8}h3{font-family:Open Sans;font-size:24px;color:#000000;line-height:1.8}h4{font-family:Open Sans}#top-bar-content,#top-bar-social-alt{font-family:Open Sans}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:Open Sans;font-weight:500;font-style:normal;font-size:14px}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-family:Open Sans;font-weight:500;font-style:normal;font-size:14px;line-height:1;text-transform:none}.sidr-class-dropdown-menu li a,a.sidr-class-toggle-sidr-close,#mobile-dropdown ul li a,body #mobile-fullscreen ul li a{font-family:Open Sans}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-family:Open Sans;font-size:42 px;line-height:1.5}@media (max-width:480px){.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-size:30px}}.page-header .page-subheading{font-family:Open Sans}.site-breadcrumbs{font-family:Open Sans}.blog-entry.post .blog-entry-header .entry-title a{font-family:Open Sans}.single-post .entry-title{font-family:Open Sans;line-height:1.9}@media (max-width:480px){.single-post .entry-title{font-size:3%}}.sidebar-box .widget-title{font-family:Open Sans}.sidebar-box,.footer-box{font-family:Open Sans}#footer-widgets .footer-box .widget-title{font-family:Open Sans;font-size:16px;line-height:1.6}
@@ -389,10 +389,7 @@
                 <div id="site-navigation-wrap" class="clr">
                     <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
                         <ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-9340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1014 current_page_item menu-item-9340"><a href="/en" class="menu-link"><span class="text-wrap">Home</span></a></li>
-                            <li id="menu-item-2470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470"><a href="/gcp-en" class="menu-link"><span class="text-wrap">GCP</span></a></li>
-                            <li id="menu-item-10063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10063"><a href="/atlassian-en" class="menu-link"><span class="text-wrap">Atlassian</span></a></li>
                             <li id="menu-item-9652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9652"><a href="/software-development-en" class="menu-link"><span class="text-wrap">Software Development</span></a></li>
-                            <li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2515"><a href="/blogs-en" class="menu-link"><span class="text-wrap">Blog</span></a></li>
                             <li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="/about-az-soft-vietnam" class="menu-link"><span class="text-wrap">About Us</span></a></li>
                             <li id="menu-item-6447" class="menu-contact-button menu-item menu-item-type-post_type menu-item-object-page menu-item-6447"><a href="/contact-us-en" class="menu-link"><span class="text-wrap">Contact Us</span></a></li>
                             <li id="menu-item-542-vi" class="lang-item lang-item-574 lang-item-vi lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-542-vi"><a href="/vi" hreflang="vi" lang="vi" class="menu-link"><span class="text-wrap">VI</span></a></li>
@@ -445,7 +442,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-f1915db elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f1915db" data-element_type="widget" data-widget_type="image-box.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="150" src="https://www.dssolution.vn/wp-content/uploads/2022/02/scl.png" class="attachment-thumbnail size-thumbnail" alt="scalable" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Agility & Scalability</h3><p class="elementor-image-box-description">Our agile team leverages flexible frameworks and state-of-the-art technology to delivery clients’ ideas to software that fit the market needs</p></div></div>		</div>
+                                                                                                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="150" src="https://www.dssolution.vn/wp-content/uploads/2022/02/scl.png" class="attachment-thumbnail size-thumbnail" alt="scalable" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Agility & Scalability</h3><p class="elementor-image-box-description">Our agile team leverages flexible frameworks and state-of-the-art technology to delivery clients’ ideas to software that fit the market needs</p></div></div>        </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -455,7 +452,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-6ff9489 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="6ff9489" data-element_type="widget" data-widget_type="image-box.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://www.dssolution.vn/wp-content/uploads/2022/02/2649578.png" title="2649578" alt="time to market" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Accelerate Time to Market</h3><p class="elementor-image-box-description">With a team of high SCRUM methodology, strategic planning and development skills, we create speedy delivery.</p></div></div>		</div>
+                                                                                                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://www.dssolution.vn/wp-content/uploads/2022/02/2649578.png" title="2649578" alt="time to market" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Accelerate Time to Market</h3><p class="elementor-image-box-description">With a team of high SCRUM methodology, strategic planning and development skills, we create speedy delivery.</p></div></div>       </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -465,7 +462,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-5ae07ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5ae07ea" data-element_type="widget" data-widget_type="image-box.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://www.dssolution.vn/wp-content/uploads/2022/02/2637366.png" title="2637366" alt="customer satisfied" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Customer Satisfied</h3><p class="elementor-image-box-description">We support quickly 24/7, and ensure that the final products are actually high-quality, user-friendly applications.</p></div></div>		</div>
+                                                                                                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://www.dssolution.vn/wp-content/uploads/2022/02/2637366.png" title="2637366" alt="customer satisfied" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Customer Satisfied</h3><p class="elementor-image-box-description">We support quickly 24/7, and ensure that the final products are actually high-quality, user-friendly applications.</p></div></div>        </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -487,7 +484,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-bf37dd1 elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-heading" data-id="bf37dd1" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default"><span style="font-family: var( --e-global-typography-primary-font-family ), Sans-serif; font-size: 50px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: var( --e-global-typography-primary-font-weight ); background-color: transparent;">Services</span></h2>		</div>
+                                                                            <h2 class="elementor-heading-title elementor-size-default"><span style="font-family: var( --e-global-typography-primary-font-family ), Sans-serif; font-size: 50px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: var( --e-global-typography-primary-font-weight ); background-color: transparent;">Services</span></h2>      </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -507,15 +504,15 @@
                                                                             <div class="elementor-icon-box-wrapper">
                                                                                 <div class="elementor-icon-box-icon">
 <span class="elementor-icon elementor-animation-" >
-<i aria-hidden="true" class="fas fa-sitemap"></i>				</span>
+<i aria-hidden="true" class="fas fa-sitemap"></i>               </span>
                                                                                 </div>
                                                                                 <div class="elementor-icon-box-content">
                                                                                     <h3 class="elementor-icon-box-title">
 <span  >
-Web App					</span>
+Web App                 </span>
                                                                                     </h3>
                                                                                     <p class="elementor-icon-box-description">
-                                                                                        Implement web-based app from scratch or based on CMS or framework. 					</p>
+                                                                                        Implement web-based app from scratch or based on CMS or framework.                  </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -525,15 +522,15 @@ Web App					</span>
                                                                             <div class="elementor-icon-box-wrapper">
                                                                                 <div class="elementor-icon-box-icon">
 <span class="elementor-icon elementor-animation-" >
-<i aria-hidden="true" class="fas fa-align-center"></i>				</span>
+<i aria-hidden="true" class="fas fa-align-center"></i>              </span>
                                                                                 </div>
                                                                                 <div class="elementor-icon-box-content">
                                                                                     <h3 class="elementor-icon-box-title">
 <span  >
-Enterprise System					</span>
+Enterprise System                   </span>
                                                                                     </h3>
                                                                                     <p class="elementor-icon-box-description">
-                                                                                        Implement your own business system such as ERP, CRM, BPMS or customize, extend and operate off-the-shelf packages such as Oodo, Salesforce, SAP etc. Design and implement modern system using enterprise blockchain.					</p>
+                                                                                        Implement your own business system such as ERP, CRM, BPMS or customize, extend and operate off-the-shelf packages such as Oodo, Salesforce, SAP etc. Design and implement modern system using enterprise blockchain.                    </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -547,7 +544,7 @@ Enterprise System					</span>
                                                                     <div class="elementor-element elementor-element-d33265c elementor-widget elementor-widget-image" data-id="d33265c" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="872" height="648" src="https://www.dssolution.vn/wp-content/uploads/2019/06/app-development.png" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+                                                                                <img width="872" height="648" src="https://www.dssolution.vn/wp-content/uploads/2019/06/app-development.png" class="attachment-large size-large" alt="" loading="lazy" />                                                       </div>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-0368494 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="0368494" data-element_type="widget" data-widget_type="icon-box.default">
@@ -555,15 +552,15 @@ Enterprise System					</span>
                                                                             <div class="elementor-icon-box-wrapper">
                                                                                 <div class="elementor-icon-box-icon">
 <span class="elementor-icon elementor-animation-" >
-<i aria-hidden="true" class="fas fa-cloud"></i>				</span>
+<i aria-hidden="true" class="fas fa-cloud"></i>             </span>
                                                                                 </div>
                                                                                 <div class="elementor-icon-box-content">
                                                                                     <h3 class="elementor-icon-box-title">
 <span  >
-Cloud solutions					</span>
+Cloud solutions                 </span>
                                                                                     </h3>
                                                                                     <p class="elementor-icon-box-description">
-                                                                                        Design and implement cloud-native applications. We also support to adopt and migrate your infrastructure to Cloud					</p>
+                                                                                        Design and implement cloud-native applications. We also support to adopt and migrate your infrastructure to Cloud                   </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -579,15 +576,15 @@ Cloud solutions					</span>
                                                                             <div class="elementor-icon-box-wrapper">
                                                                                 <div class="elementor-icon-box-icon">
 <span class="elementor-icon elementor-animation-" >
-<i aria-hidden="true" class="fas fa-mobile-alt"></i>				</span>
+<i aria-hidden="true" class="fas fa-mobile-alt"></i>                </span>
                                                                                 </div>
                                                                                 <div class="elementor-icon-box-content">
                                                                                     <h3 class="elementor-icon-box-title">
 <span  >
-Mobile app					</span>
+Mobile app                  </span>
                                                                                     </h3>
                                                                                     <p class="elementor-icon-box-description">
-                                                                                        Design and implement native iOS, Android apps and also hybrid apps					</p>
+                                                                                        Design and implement native iOS, Android apps and also hybrid apps                  </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -597,15 +594,15 @@ Mobile app					</span>
                                                                             <div class="elementor-icon-box-wrapper">
                                                                                 <div class="elementor-icon-box-icon">
 <span class="elementor-icon elementor-animation-" >
-<i aria-hidden="true" class="fas fa-bullseye"></i>				</span>
+<i aria-hidden="true" class="fas fa-bullseye"></i>              </span>
                                                                                 </div>
                                                                                 <div class="elementor-icon-box-content">
                                                                                     <h3 class="elementor-icon-box-title">
 <span  >
-Data Analysis・ML					</span>
+Data Analysis・ML                    </span>
                                                                                     </h3>
                                                                                     <p class="elementor-icon-box-description">
-                                                                                        Big data solutions for your business, process and analyze data using BI tools also support design and train new ML models to satisfy your specific requirements 					</p>
+                                                                                        Big data solutions for your business, process and analyze data using BI tools also support design and train new ML models to satisfy your specific requirements                     </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -624,7 +621,7 @@ Data Analysis・ML					</span>
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-9eeba3a elementor-widget elementor-widget-heading" data-id="9eeba3a" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default">Technology Stack</h4>		</div>
+                                                                            <h4 class="elementor-heading-title elementor-size-default">Technology Stack</h4>        </div>
                                                                     </div>
                                                                     <section class="elementor-section elementor-inner-section elementor-element elementor-element-640180f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="640180f" data-element_type="section">
                                                                         <div class="elementor-container elementor-column-gap-default">
@@ -636,7 +633,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/Java-04.jpg" title="Java-04" alt="Java logo" />											<figcaption class="widget-image-caption wp-caption-text">Java</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/Java-04.jpg" title="Java-04" alt="Java logo" />                                          <figcaption class="widget-image-caption wp-caption-text">Java</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -651,7 +648,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/Python-06.jpg" title="Python-06" alt="Python" />											<figcaption class="widget-image-caption wp-caption-text">Python</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/Python-06.jpg" title="Python-06" alt="Python" />                                         <figcaption class="widget-image-caption wp-caption-text">Python</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -666,7 +663,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/javascript-logo-8892AEFCAC-seeklogo-01.jpg" title="javascript-logo-8892AEFCAC-seeklogo-01" alt="Javascript logo" />											<figcaption class="widget-image-caption wp-caption-text">Javascript</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/javascript-logo-8892AEFCAC-seeklogo-01.jpg" title="javascript-logo-8892AEFCAC-seeklogo-01" alt="Javascript logo" />                                          <figcaption class="widget-image-caption wp-caption-text">Javascript</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -681,7 +678,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/Ruby-02.jpg" title="Ruby-02" alt="Ruby logo" />											<figcaption class="widget-image-caption wp-caption-text">Ruby</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/Ruby-02.jpg" title="Ruby-02" alt="Ruby logo" />                                          <figcaption class="widget-image-caption wp-caption-text">Ruby</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -696,7 +693,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/php.jpg" title="php" alt="php logo" />											<figcaption class="widget-image-caption wp-caption-text">PHP</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/php.jpg" title="php" alt="php logo" />                                           <figcaption class="widget-image-caption wp-caption-text">PHP</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -711,7 +708,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/GO-05.jpg" title="GO-05" alt="GO logo" />											<figcaption class="widget-image-caption wp-caption-text">Go</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/GO-05.jpg" title="GO-05" alt="GO logo" />                                            <figcaption class="widget-image-caption wp-caption-text">Go</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -726,7 +723,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/net-01.jpg" title=".net-01" alt=".NET" />											<figcaption class="widget-image-caption wp-caption-text">.NET</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/net-01.jpg" title=".net-01" alt=".NET" />                                            <figcaption class="widget-image-caption wp-caption-text">.NET</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -747,7 +744,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/spring-01.jpg" title="spring-01" alt="Spring logo" />											<figcaption class="widget-image-caption wp-caption-text">Spring</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/spring-01.jpg" title="spring-01" alt="Spring logo" />                                            <figcaption class="widget-image-caption wp-caption-text">Spring</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -762,7 +759,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/django-01.jpg" title="django-01" alt="django logo" />											<figcaption class="widget-image-caption wp-caption-text">django</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/django-01.jpg" title="django-01" alt="django logo" />                                            <figcaption class="widget-image-caption wp-caption-text">django</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -777,7 +774,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/nodejs-01.jpg" title="nodejs-01" alt="Nodejs logo" />											<figcaption class="widget-image-caption wp-caption-text">Nodejs</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/nodejs-01.jpg" title="nodejs-01" alt="Nodejs logo" />                                            <figcaption class="widget-image-caption wp-caption-text">Nodejs</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -792,7 +789,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/RoR-03.jpg" title="RoR-03" alt="Ruby on rails logo" />											<figcaption class="widget-image-caption wp-caption-text">Rails</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/RoR-03.jpg" title="RoR-03" alt="Ruby on rails logo" />                                           <figcaption class="widget-image-caption wp-caption-text">Rails</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -807,7 +804,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/laravel-01.jpg" title="laravel-01" alt="Laravel" />											<figcaption class="widget-image-caption wp-caption-text">Laravel</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/laravel-01.jpg" title="laravel-01" alt="Laravel" />                                          <figcaption class="widget-image-caption wp-caption-text">Laravel</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -822,7 +819,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/angular-01.jpg" title="angular-01" alt="Angular logo" />											<figcaption class="widget-image-caption wp-caption-text">Angular</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/angular-01.jpg" title="angular-01" alt="Angular logo" />                                         <figcaption class="widget-image-caption wp-caption-text">Angular</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -837,7 +834,7 @@ Data Analysis・ML					</span>
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
                                                                                                         <figure class="wp-caption">
-                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/react-js-01.jpg" title="react js-01" alt="React logo" />											<figcaption class="widget-image-caption wp-caption-text">React</figcaption>
+                                                                                                            <img src="https://www.dssolution.vn/wp-content/uploads/2022/02/react-js-01.jpg" title="react js-01" alt="React logo" />                                         <figcaption class="widget-image-caption wp-caption-text">React</figcaption>
                                                                                                         </figure>
                                                                                                     </div>
                                                                                                 </div>
@@ -862,7 +859,7 @@ Data Analysis・ML					</span>
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-4eff81ee elementor-widget elementor-widget-heading" data-id="4eff81ee" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h3 class="elementor-heading-title elementor-size-default">Development Methods</h3>		</div>
+                                                                            <h3 class="elementor-heading-title elementor-size-default">Development Methods</h3>     </div>
                                                                     </div>
                                                                     <section class="elementor-section elementor-inner-section elementor-element elementor-element-31c3653 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31c3653" data-element_type="section">
                                                                         <div class="elementor-container elementor-column-gap-default">
@@ -873,7 +870,7 @@ Data Analysis・ML					</span>
                                                                                             <div class="elementor-element elementor-element-2ae295c4 elementor-widget elementor-widget-image" data-id="2ae295c4" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img width="3786" height="2166" src="https://www.dssolution.vn/wp-content/uploads/2022/01/development_method_en.png" class="attachment-full size-full" alt="" loading="lazy" />														</div>
+                                                                                                        <img width="3786" height="2166" src="https://www.dssolution.vn/wp-content/uploads/2022/01/development_method_en.png" class="attachment-full size-full" alt="" loading="lazy" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -885,7 +882,7 @@ Data Analysis・ML					</span>
                                                                                             <div class="elementor-element elementor-element-81b55cd elementor-widget elementor-widget-image" data-id="81b55cd" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img width="1024" height="587" src="https://www.dssolution.vn/wp-content/uploads/2022/01/cicd_en.png" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+                                                                                                        <img width="1024" height="587" src="https://www.dssolution.vn/wp-content/uploads/2022/01/cicd_en.png" class="attachment-large size-large" alt="" loading="lazy" />                                                      </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -908,7 +905,7 @@ Data Analysis・ML					</span>
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-a24ef86 elementor-widget elementor-widget-heading" data-id="a24ef86" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default">Tools</h4>		</div>
+                                                                            <h4 class="elementor-heading-title elementor-size-default">Tools</h4>       </div>
                                                                     </div>
                                                                     <section class="elementor-section elementor-inner-section elementor-element elementor-element-5a5968c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a5968c" data-element_type="section">
                                                                         <div class="elementor-container elementor-column-gap-default">
@@ -918,54 +915,54 @@ Data Analysis・ML					</span>
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-93c0a48 elementor-widget elementor-widget-heading" data-id="93c0a48" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Planning, Collaborating</h2>		</div>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Planning, Collaborating</h2>     </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-620b56c elementor-widget elementor-widget-image" data-id="620b56c" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Jira-Software@2x-blue-e1547633239138-o23ljodp6joa1hzj6h50t2ot9mfk5emk1g2m9ej1fk.png" title="Jira Software@2x-blue" alt="Jira Software@2x-blue" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Jira-Software@2x-blue-e1547633239138-o23ljodp6joa1hzj6h50t2ot9mfk5emk1g2m9ej1fk.png" title="Jira Software@2x-blue" alt="Jira Software@2x-blue" />                                                       </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-830be38 elementor-widget elementor-widget-image" data-id="830be38" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Jira-Service-Desk@2x-blue-e1547633259482-o23lk76gz8e0hp884p9k6xy15buwfcp6s14buxr5z4.png" title="Jira Service Desk@2x-blue" alt="Jira Service Desk@2x-blue" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Jira-Service-Desk@2x-blue-e1547633259482-o23lk76gz8e0hp884p9k6xy15buwfcp6s14buxr5z4.png" title="Jira Service Desk@2x-blue" alt="Jira Service Desk@2x-blue" />                                                       </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-a1c8366 elementor-widget elementor-widget-image" data-id="a1c8366" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Confluence@2x-blue-e1547633868733-o23m03m6lc5mw84qa2pcvfhqwzhfn0tpyqf14g6eps.png" title="Confluence@2x-blue" alt="Confluence@2x-blue" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Confluence@2x-blue-e1547633868733-o23m03m6lc5mw84qa2pcvfhqwzhfn0tpyqf14g6eps.png" title="Confluence@2x-blue" alt="Confluence@2x-blue" />                                                        </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-c00dc95 elementor-widget elementor-widget-image" data-id="c00dc95" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/trello-logo-blue-o9l3dxdkvsu8t39sl8fgxgb8bfjjaiffcvp0crz8cg.png" title="trello-logo-blue" alt="trello-logo-blue" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/trello-logo-blue-o9l3dxdkvsu8t39sl8fgxgb8bfjjaiffcvp0crz8cg.png" title="trello-logo-blue" alt="trello-logo-blue" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-c010ab2 elementor-widget elementor-widget-image" data-id="c010ab2" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/5cb480b85f1b6d3fbadece78-o9n10tvq7yltaj23c6g1zh5znqvenf934xyreoxczk.png" title="5cb480b85f1b6d3fbadece78" alt="5cb480b85f1b6d3fbadece78" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/5cb480b85f1b6d3fbadece78-o9n10tvq7yltaj23c6g1zh5znqvenf934xyreoxczk.png" title="5cb480b85f1b6d3fbadece78" alt="5cb480b85f1b6d3fbadece78" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-7cef169 elementor-widget elementor-widget-image" data-id="7cef169" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Bitbucket@2x-blue-e1547632413538-o23ky3z0de5fnlbb45j6lim2lcqdjf09qp7juui874.png" title="Bitbucket@2x-blue" alt="Bitbucket@2x-blue" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Bitbucket@2x-blue-e1547632413538-o23ky3z0de5fnlbb45j6lim2lcqdjf09qp7juui874.png" title="Bitbucket@2x-blue" alt="Bitbucket@2x-blue" />                                                       </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-e2cdb28 elementor-widget elementor-widget-image" data-id="e2cdb28" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/1J8O2xd9ZqxWr2x6EP4MHmg-o9l3n3axindy1voziawrlcn0v27sgv0bvl88071ji8.png" title="1*J8O2xd9ZqxWr2x6EP4MHmg" alt="1*J8O2xd9ZqxWr2x6EP4MHmg" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/1J8O2xd9ZqxWr2x6EP4MHmg-o9l3n3axindy1voziawrlcn0v27sgv0bvl88071ji8.png" title="1*J8O2xd9ZqxWr2x6EP4MHmg" alt="1*J8O2xd9ZqxWr2x6EP4MHmg" />                                                      </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-1e614a2 elementor-widget elementor-widget-image" data-id="1e614a2" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/gitlab-logo-gray-rgb-o9ndlbes6u0y8tsn4ronaak6b8me21le0jne7y0pog.png" title="gitlab-logo-gray-rgb" alt="gitlab-logo-gray-rgb" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/gitlab-logo-gray-rgb-o9ndlbes6u0y8tsn4ronaak6b8me21le0jne7y0pog.png" title="gitlab-logo-gray-rgb" alt="gitlab-logo-gray-rgb" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -976,48 +973,48 @@ Data Analysis・ML					</span>
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-f70ae14 elementor-widget elementor-widget-heading" data-id="f70ae14" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Dev Tools</h2>		</div>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Dev Tools</h2>       </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-0367e89 elementor-widget elementor-widget-image" data-id="0367e89" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Docker-nnozozy619clsxsi9tdhal027jz7zl50g02bu4bchs.png" title="Docker" alt="Docker" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Docker-nnozozy619clsxsi9tdhal027jz7zl50g02bu4bchs.png" title="Docker" alt="Docker" />                                                       </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-6ceed40 elementor-widget elementor-widget-image" data-id="6ceed40" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/1xyKBvrsqwIdINAmXIw3KgA-o9l3n2d3btcrtl77j08mqa1kcg19icau25oaxidxc0.png" title="1*xyKBvrsqwIdINAmXIw3KgA" alt="1*xyKBvrsqwIdINAmXIw3KgA" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/1xyKBvrsqwIdINAmXIw3KgA-o9l3n2d3btcrtl77j08mqa1kcg19icau25oaxidxc0.png" title="1*xyKBvrsqwIdINAmXIw3KgA" alt="1*xyKBvrsqwIdINAmXIw3KgA" />                                                      </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-33334d2 elementor-widget elementor-widget-image" data-id="33334d2" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/2016-08-31-jenkins-o9l3n2d3btcnq9qcnsi50uvk9ocf95wljgkqix2xog.png" title="2016-08-31-jenkins" alt="2016-08-31-jenkins" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/2016-08-31-jenkins-o9l3n2d3btcnq9qcnsi50uvk9ocf95wljgkqix2xog.png" title="2016-08-31-jenkins" alt="2016-08-31-jenkins" />                                                       </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-e2d85a5 elementor-widget elementor-widget-image" data-id="e2d85a5" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Git-Logo-1788C-o9n0yapdt14vx19o9dar2709ylnynlsvxpl3g9dk3k.png" title="Git-Logo-1788C" alt="Git-Logo-1788C" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Git-Logo-1788C-o9n0yapdt14vx19o9dar2709ylnynlsvxpl3g9dk3k.png" title="Git-Logo-1788C" alt="Git-Logo-1788C" />                                                       </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-6c0854e elementor-widget elementor-widget-image" data-id="6c0854e" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Ansible_RH_AnsibleAutomation_RGB_RedBlack-o9n1h0nnx8rh5g2pxym97yxrvve4yl4fidc8jnma68.png" title="Ansible_RH_AnsibleAutomation_RGB_RedBlack" alt="Ansible_RH_AnsibleAutomation_RGB_RedBlack" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Ansible_RH_AnsibleAutomation_RGB_RedBlack-o9n1h0nnx8rh5g2pxym97yxrvve4yl4fidc8jnma68.png" title="Ansible_RH_AnsibleAutomation_RGB_RedBlack" alt="Ansible_RH_AnsibleAutomation_RGB_RedBlack" />                                                      </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-ef460de elementor-widget elementor-widget-image" data-id="ef460de" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/intellij-519-d4ff21c469-o9n1h0nnx8rh5g2pxym97yxrvve4yl4fidc8jnma68.png" title="intellij-519-d4ff21c469" alt="intellij-519-d4ff21c469" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/intellij-519-d4ff21c469-o9n1h0nnx8rh5g2pxym97yxrvve4yl4fidc8jnma68.png" title="intellij-519-d4ff21c469" alt="intellij-519-d4ff21c469" />                                                        </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-04f2c8e elementor-widget elementor-widget-image" data-id="04f2c8e" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Terraform-o9n1o0kesucbkxwt2zi9s7db34wi9gwht06d5t8ruo.png" title="Terraform" alt="Terraform" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/Terraform-o9n1o0kesucbkxwt2zi9s7db34wi9gwht06d5t8ruo.png" title="Terraform" alt="Terraform" />                                                      </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -1028,42 +1025,42 @@ Data Analysis・ML					</span>
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-a2d4ca5 elementor-widget elementor-widget-heading" data-id="a2d4ca5" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Platforms</h2>		</div>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Platforms</h2>       </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-de2121e elementor-widget elementor-widget-image" data-id="de2121e" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/kubernetes-horizontal-color-nxel76o3pd8bkyg2vuruodpyr19ky34twtecxmrrwg.png" title="kubernetes-horizontal-color" alt="kubernetes-horizontal-color" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/kubernetes-horizontal-color-nxel76o3pd8bkyg2vuruodpyr19ky34twtecxmrrwg.png" title="kubernetes-horizontal-color" alt="kubernetes-horizontal-color" />                                                        </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-2114a7f elementor-widget elementor-widget-image" data-id="2114a7f" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/GCP_icon-nz4uhjhou0rtzihb3ovmidqfyy6d43rqrwbpwvm1hc.png" title="GCP_icon" alt="GCP_icon" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/GCP_icon-nz4uhjhou0rtzihb3ovmidqfyy6d43rqrwbpwvm1hc.png" title="GCP_icon" alt="GCP_icon" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-a28d938 elementor-widget elementor-widget-image" data-id="a28d938" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/AWS-nnouu35ca3wvghbthxa7in56u3s6we5dwyw6c2yo00.png" title="AWS" alt="AWS" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/AWS-nnouu35ca3wvghbthxa7in56u3s6we5dwyw6c2yo00.png" title="AWS" alt="AWS" />                                                        </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-f8987be elementor-widget elementor-widget-image" data-id="f8987be" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/ibm_cloud-no4e31g256eobb3a705c6nuh3h0s8hkqxtzvl1msqo.png" title="ibm_cloud" alt="ibm_cloud" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/ibm_cloud-no4e31g256eobb3a705c6nuh3h0s8hkqxtzvl1msqo.png" title="ibm_cloud" alt="ibm_cloud" />                                                      </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-7e5a85e elementor-widget elementor-widget-image" data-id="7e5a85e" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/platform-o9l3wczmwu2qjg8adt5boifnquj3det1hgtldfas5c.png" title="platform" alt="platform" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/platform-o9l3wczmwu2qjg8adt5boifnquj3det1hgtldfas5c.png" title="platform" alt="platform" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-bc122e8 elementor-widget elementor-widget-image" data-id="bc122e8" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/CloudFoundry-nnozoy2hnla591c3g0apv0n53jxbtdbsafuxa5p4hs.png" title="CloudFoundry" alt="CloudFoundry" />														</div>
+                                                                                                        <img src="https://www.dssolution.vn/wp-content/uploads/elementor/thumbs/CloudFoundry-nnozoy2hnla591c3g0apv0n53jxbtdbsafuxa5p4hs.png" title="CloudFoundry" alt="CloudFoundry" />                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -1092,30 +1089,25 @@ Data Analysis・ML					</span>
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-a91666e elementor-widget elementor-widget-heading" data-id="a91666e" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-large">Contact Us</h2>		</div>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-large">Contact Us</h2>        </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-3812dbf elementor-align-left contact-style elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3812dbf" data-element_type="widget" data-widget_type="icon-list.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <ul class="elementor-icon-list-items">
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-building"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft VIETNAM ., JSC.</span></span>
+<i aria-hidden="true" class="fas fa-building"></i>                      </span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZPRO JSC.</span></span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">12 Floor Viwaseen tower, No.48 To Huu street, Trung Van ward, Nam Tu Liem district, Hanoi city, Viet Nam</span></span>
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i>                        </span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">S2.08 Vinhomes Ocean Park, Da Ton ward, Gia Lam district, Hanoi city, Viet Nam</span></span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">Tokyo Office: 4F Shiroyama Trust Tower, Toranomon 4-3-1, Minato City, Tokyo, 105-6004 Japan</span></span>
-                                                                                                        </li>
-                                                                                                        <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@azsoft.vn</span></span>
+<i aria-hidden="true" class="fas fa-envelope"></i>                      </span>
+                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@az-soft.vn</span></span>
                                                                                                         </li>
                                                                                                     </ul>
                                                                                                 </div>
@@ -1187,20 +1179,19 @@ Data Analysis・ML					</span>
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-570fdb7 elementor-widget elementor-widget-image" data-id="570fdb7" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-image">
-                                                                        <a href="https://partnerdirectory.atlassian.com/" target="_blank">
-                                                                            <img width="1024" height="81" src="https://www.dssolution.vn/wp-content/uploads/2022/09/Atlassian-Partner@2x-white-rgb.png" class="attachment-large size-large" alt="" loading="lazy" />								</a>
-                                                                    </div>
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-5fde3bd6 elementor-widget elementor-widget-heading" data-id="5fde3bd6" data-element_type="widget" data-widget_type="heading.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <h3 class="elementor-heading-title elementor-size-large">Who we are</h3>		</div>
+                                                                    <h3 class="elementor-heading-title elementor-size-large">Who we are</h3>        </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-5a29be56 elementor-widget elementor-widget-text-editor" data-id="5a29be56" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>AZ Soft Vietnam., JSC is a branch company of AZ Soft,INC. &#8211; an IT services firm based in Japan and APAC. We provide IT consulting and IT outsourcing, offshoring software development services. We help customers to transform IT to next level with latest cloud computing platform, devops tools and best practices. </p><p>With 15-year IT experience and a strong team of full-stack software engineers and consultants, we help our clients to achieve unsurpassed quality at all stages of the web, mobile, and desktop application development. By providing multiple time-zone teams and different formats of working (onsite, remote, hybrid, etc.), we help organizations across the globe to gain sustainable competitive advantage through the adoption of innovative technologies.</p>					</div>
+                                                                        <p>AZ Soft is a company that focuses on digital transformation solutions, software development, and software engineering. Our team of highly skilled professionals provides top-notch consulting services to support all stages of the software development life cycle (SDLC).</p>
+
+                                                                        <p>With years of experience in the field, we have established a solid reputation in the digital transformation space. We are dedicated to delivering the best service and optimized solutions to our customers. We believe that a combination of expertise and passion will help us achieve success in the future.</p>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1219,47 +1210,14 @@ Data Analysis・ML					</span>
                                                             </div>
                                                             <div class="elementor-element elementor-element-1a92cf5f elementor-widget elementor-widget-heading" data-id="1a92cf5f" data-element_type="widget" data-widget_type="heading.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <h3 class="elementor-heading-title elementor-size-large">Our Services</h3>		</div>
+                                                                    <h3 class="elementor-heading-title elementor-size-large">Our Services</h3>      </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-2f713735 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2f713735" data-element_type="widget" data-widget_type="icon-list.default">
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="/gcp-en" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・GCP Services</span>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li class="elementor-icon-list-item">
-                                                                            <a href="/atlassian-en" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Atlassian Services</span>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li class="elementor-icon-list-item">
                                                                             <a href="index.html" target="_blank">
                                                                                 <span class="elementor-icon-list-text">・Software Development Services</span>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-8a685a7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8a685a7" data-element_type="widget" data-widget_type="divider.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-74586ef1 elementor-widget elementor-widget-heading" data-id="74586ef1" data-element_type="widget" data-widget_type="heading.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <h3 class="elementor-heading-title elementor-size-large">Resources</h3>		</div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-7d2c9202 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7d2c9202" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <ul class="elementor-icon-list-items">
-                                                                        <li class="elementor-icon-list-item">
-                                                                            <a href="../blogs-en" target="_blank">
-                                                                                <span class="elementor-icon-list-text">・Blog</span>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
@@ -1275,7 +1233,7 @@ Data Analysis・ML					</span>
                                                             </div>
                                                             <div class="elementor-element elementor-element-710e6aef elementor-widget elementor-widget-heading" data-id="710e6aef" data-element_type="widget" data-widget_type="heading.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <h3 class="elementor-heading-title elementor-size-large">About us</h3>		</div>
+                                                                    <h3 class="elementor-heading-title elementor-size-large">About us</h3>      </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-454b8ab6 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="454b8ab6" data-element_type="widget" data-widget_type="icon-list.default">
                                                                 <div class="elementor-widget-container">
@@ -1297,25 +1255,6 @@ Data Analysis・ML					</span>
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-beb6b1a elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="beb6b1a" data-element_type="widget" data-widget_type="social-icons.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-social-icons-wrapper elementor-grid">
-<span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-7db2979" href="https://www.facebook.com/profile.php?id=100077702830890" target="_blank">
-<span class="elementor-screen-only">Facebook</span>
-<i class="fab fa-facebook"></i>					</a>
-</span>
-                                                                        <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-3d58a58" href="https://www.youtube.com/@dssolutionvietnam" target="_blank">
-<span class="elementor-screen-only">Youtube</span>
-<i class="fab fa-youtube"></i>					</a>
-</span>
-                                                                        <span class="elementor-grid-item">
-<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-b57132d" href="https://www.linkedin.com/company/ds-solution-vietnam-jsc/" target="_blank">
-<span class="elementor-screen-only">Linkedin</span>
-<i class="fab fa-linkedin"></i>					</a>
-</span>
-                                                                    </div>
-                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1325,7 +1264,7 @@ Data Analysis・ML					</span>
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-62ef71fa elementor-widget elementor-widget-wp-widget-ocean_twitter" data-id="62ef71fa" data-element_type="widget" data-widget_type="wp-widget-ocean_twitter.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCTAZ Soft&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>		</div>
+                                                                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCTAZ Soft&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>       </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1348,7 +1287,7 @@ Data Analysis・ML					</span>
                                                             <div class="elementor-element elementor-element-5681042f elementor-widget elementor-widget-wp-widget-ocean_custom_menu" data-id="5681042f" data-element_type="widget" data-widget_type="wp-widget-ocean_custom_menu.default">
                                                                 <div class="elementor-widget-container">
                                                                     <style type="text/css">.ocean_custom_menu-REPLACE_TO_ID > ul > li > a, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link{padding:5px;color:#f9f9f9;letter-spacing:1.5px;}.custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID.oceanwp-custom-menu > ul.click-menu .open-this{color:#f9f9f9;}.ocean_custom_menu-REPLACE_TO_ID > ul > li > a:hover, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link:hover{color:#aaaaaa;}.custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID.oceanwp-custom-menu > ul.click-menu .open-this:hover{color:#aaaaaa;}</style><div class="oceanwp-custom-menu clr ocean_custom_menu-REPLACE_TO_ID center dropdown-"><ul id="menu-footer_menu" class="dropdown-menu"><li  id="menu-item-1342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1342"><a href="#" class="menu-link">TOP</a></li>
-                                                                        </ul></div>		</div>
+                                                                        </ul></div>     </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1377,7 +1316,7 @@ Data Analysis・ML					</span>
                                                             <div class="elementor-element elementor-element-8c00f6b elementor-widget elementor-widget-text-editor" data-id="8c00f6b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>					</div>
+                                                                        <p>©2022 AZ Soft VIETNAM., JSC All Rights Reserved.｜<a href="../privacy-policy-en" target="_blank" rel="noopener">Privacy Policy</a></p>                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1407,7 +1346,7 @@ Data Analysis・ML					</span>
                                                             <div class="elementor-element elementor-element-6bdc89f9 elementor-widget elementor-widget-wp-widget-ocean_custom_menu" data-id="6bdc89f9" data-element_type="widget" data-widget_type="wp-widget-ocean_custom_menu.default">
                                                                 <div class="elementor-widget-container">
                                                                     <style type="text/css">.ocean_custom_menu-REPLACE_TO_ID > ul > li > a, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link{padding:5px;color:#f9f9f9;letter-spacing:1.5px;}.custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID.oceanwp-custom-menu > ul.click-menu .open-this{color:#f9f9f9;}.ocean_custom_menu-REPLACE_TO_ID > ul > li > a:hover, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link:hover{color:#aaaaaa;}.custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID.oceanwp-custom-menu > ul.click-menu .open-this:hover{color:#aaaaaa;}</style><div class="oceanwp-custom-menu clr ocean_custom_menu-REPLACE_TO_ID center dropdown-"><ul id="menu-footer_menu-2" class="dropdown-menu"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1342"><a href="#" class="menu-link">TOP</a></li>
-                                                                        </ul></div>		</div>
+                                                                        </ul></div>     </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1455,7 +1394,7 @@ Data Analysis・ML					</span>
     </a>
 </div>
 <!-- <link rel='stylesheet' id='e-animations-css'  href='https://www.dssolution.vn/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.3' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="http://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1bb5gzdh/fwr77.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="https://www.dssolution.vn/wp-content/cache/www.dssolution.vn/wpfc-minified/1bb5gzdh/fwr77.css" media="all"/>
 <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
 <script type='text/javascript' src='https://www.dssolution.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
