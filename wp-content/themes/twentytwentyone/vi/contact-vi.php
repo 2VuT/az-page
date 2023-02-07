@@ -38,8 +38,8 @@
     <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AZ Soft Vietnam &raquo;" href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AZ Soft Vietnam &raquo;" href="../comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-    <script
-        src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+    <script src="http://www.googletagmanager.com/gtag/js?id=UA-117941251-2"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+    <script src="https://kit.fontawesome.com/a3256e6d6c.js" crossorigin="anonymous"></script>
     <script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
         var mi_version = '8.10.0';
         var mi_track_user = true;
@@ -454,19 +454,28 @@
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <ul class="elementor-icon-list-items">
                                                                                                         <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-building"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft Vietnam., JSC</span></span>
+                                                                                                            <span class="elementor-icon-list-icon">
+                                                                                                                <i aria-hidden="true" class="fas fa-building"></i>
+                                                                                                            </span>
+                                                                                                            <span class="elementor-icon-list-text">
+                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">AZ Soft Vietnam., JSC</span>
+                                                                                                            </span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">12F tòa nhà Viwaseen, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội</span></span>
+                                                                                                            <span class="elementor-icon-list-icon">
+                                                                                                                <i aria-hidden="true" class="fas fa-map-marker-alt"></i>
+                                                                                                            </span>
+                                                                                                            <span class="elementor-icon-list-text">
+                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">12F tòa nhà Viwaseen, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội</span>
+                                                                                                            </span>
                                                                                                         </li>
                                                                                                         <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
-                                                                                                            <span class="elementor-icon-list-text"><span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@azsoft.vn</span></span>
+                                                                                                            <span class="elementor-icon-list-icon">
+                                                                                                                <i aria-hidden="true" class="fas fa-envelope"></i>
+                                                                                                            </span>
+                                                                                                            <span class="elementor-icon-list-text">
+                                                                                                                <span style="font-family: Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: justify; white-space: normal;">info@azsoft.vn</span>
+                                                                                                            </span>
                                                                                                         </li>
                                                                                                     </ul>
                                                                                                 </div>
