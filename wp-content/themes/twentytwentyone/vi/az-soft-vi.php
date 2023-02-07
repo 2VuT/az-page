@@ -14,10 +14,10 @@
     <link rel="alternate" href="index.html" hreflang="vi" />
     <link rel="alternate" href="https://az-soft.vn/en/" hreflang="en" />
     <link rel="alternate" href="https://az-soft.vn/" hreflang="x-default" />
-    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon-270x270.png" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" sizes="32x32" />
+    <link rel="icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" />
+    <meta name="msapplication-TileImage" content="https://az-soft.vn/wp-content/uploads/2023/02/cropped-favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
     <title>AZ Soft Vietnam | Giải pháp IT | Đối tác Atlassian tại Việt Nam</title>
